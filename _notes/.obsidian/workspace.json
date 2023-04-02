@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Public/Markdown Rendered.md",
+                "file": "Public/Alkol Kuralları.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Public/Markdown Rendered.md",
+                "file": "Public/Alkol Kuralları.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Public/Markdown Rendered.md",
+                "file": "Public/Alkol Kuralları.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Public/Markdown Rendered.md"
+                "file": "Public/Alkol Kuralları.md"
               }
             }
           }
@@ -156,10 +156,10 @@
   },
   "active": "c3c879e13c4f8485",
   "lastOpenFiles": [
+    "Public/Markdown Rendered.md",
     "Public/Alkol Kuralları.md",
     "Public/Hidden Note.md",
     "Public/Welcome to the garden.md",
-    "Public/Markdown Rendered.md",
     "Public/Credits.md",
     "Public/Rehberler/Alkollü Plan Kuralları.md",
     "Sarhoş Etme Checklist.md",
