@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Public/Credits.md",
+                "file": "Public/Rehberler/Alkol Kuralları.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Public/Credits.md",
+                "file": "Public/Rehberler/Alkol Kuralları.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Public/Credits.md",
+                "file": "Public/Rehberler/Alkol Kuralları.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Public/Credits.md"
+                "file": "Public/Rehberler/Alkol Kuralları.md"
               }
             }
           }
@@ -154,8 +154,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "df5ab5ec1602f9f9",
+  "active": "c3c879e13c4f8485",
   "lastOpenFiles": [
+    "Public/Rehberler/Alkol Kuralları.md",
+    "Public/Markdown Rendered.md",
+    "Public/Hidden Note.md",
+    "Public/Credits.md",
     "Public/Tier Lists/Abdülkadir Tier List.md",
     "Public/Tier Lists/Elif Tier List.md",
     "Public/Tier Lists/Ömer Tier List.md",
@@ -166,7 +170,6 @@
     "Public/Rehberler/Ömer'in Kanunları.md",
     "Public/Rehberler/Tier Atlama Rehberi.md",
     "Public/Rehberler/Araba Kuralları.md",
-    "Public/Rehberler/Alkol Kuralları.md",
     "Public/Rehberler/Ömer'in Rehberi.md",
     "Public/Rehberler/Çanta Kuralları.md",
     "Public/Teaching/If Conditional Type 2.md",
@@ -180,9 +183,6 @@
     "Public/Teaching/Common Teaching Files",
     "Public/Teaching/Past Continuous Tense.md",
     "Public/Teaching/Possessive Adjectives.md",
-    "Public/Teaching/Would.md",
-    "Public/Teaching/If Conditional Type 3.md",
-    "Public/Teaching/Present Perfect Continuous Tense.md",
     "Public/Tier Lists",
     "Public/Rehberler",
     "Public/Teaching"
