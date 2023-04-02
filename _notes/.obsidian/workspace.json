@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "afc376436153be23",
+    "type": "split",
+    "children": [
+      {
+        "id": "f41184bf4f64395f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3c879e13c4f8485",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1970b03e8c264bea",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5513b60693082d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df5ab5ec1602f9f9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "beb5cbfe1a82d82f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9252e3856b2f93ec",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "174c4f7566b6e3ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca247941bc1cbd4e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b599b0f7d457cf7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ebf98c65b76fbce8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4177362accca6121",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "38a70bac82ad342e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "mixa:Publish with Mixa": false
+    }
+  },
+  "active": "c3c879e13c4f8485",
+  "lastOpenFiles": [
+    "Tier Lists/Abdülkadir Tier List.md",
+    "Tier Lists/Elif Tier List.md",
+    "Tier Lists/Ömer Tier List.md",
+    "Tier Lists/Harun Tier List.md",
+    "Tier Lists/Seçil Tier List.md",
+    "Tier Lists/Kerem Tier List.md",
+    "Rehberler/Alkollü Plan Kuralları.md",
+    "Rehberler/Ömer'in Kanunları.md",
+    "Rehberler/Tier Atlama Rehberi.md",
+    "Rehberler/Araba Kuralları.md",
+    "Rehberler/Alkol Kuralları.md",
+    "Rehberler/Ömer'in Rehberi.md",
+    "Rehberler/Çanta Kuralları.md",
+    "Teaching/If Conditional Type 2.md",
+    "Teaching/Comparatives and Superlatives.md",
+    "Teaching/Present Simple Tense.md",
+    "Teaching/Future In The Past.md",
+    "Teaching/Future Tense.md",
+    "Teaching/Relative Pronouns.md",
+    "Teaching/Would Rather and Would Prefer YAZILIYOR.md",
+    "Teaching/Common Teaching Files/Pronouns Table.md",
+    "Teaching/Common Teaching Files",
+    "Teaching/Past Continuous Tense.md",
+    "Teaching/Possessive Adjectives.md",
+    "Teaching/Would.md",
+    "Teaching/If Conditional Type 3.md",
+    "Teaching/Present Perfect Continuous Tense.md",
+    "Tier Lists",
+    "Rehberler",
+    "Teaching"
+  ]
+}
