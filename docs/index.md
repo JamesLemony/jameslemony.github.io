@@ -1,3 +1,7 @@
+---
+share: true
+---
+
 Hoşgeldiniz! 
 
 # Kurallar ve Rehberler
