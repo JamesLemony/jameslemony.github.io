@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "0bc10627df5d8c76",
+    "type": "split",
+    "children": [
+      {
+        "id": "adc49daa0da77090",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0cfd9e86184c1820",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/400 Teaching/Adverbs of Frequency.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e3c3538896bb8feb",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1b4b1b98d61016f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "083513c363408257",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6bd14a0234b5bd12",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f12dcfabe7c53206",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "190669331c4a9880",
+    "type": "split",
+    "children": [
+      {
+        "id": "34d8be103658c566",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1841a284927daf49",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/400 Teaching/Adverbs of Frequency.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "67623c780d251bcd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "docs/400 Teaching/Adverbs of Frequency.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "666ede4ee14945ec",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9f8b97477510d254",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "docs/400 Teaching/Adverbs of Frequency.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0cfd9e86184c1820",
+  "lastOpenFiles": [
+    "site/search/search_index.json",
+    "site/search",
+    "site/500 Tier Lists/Seçil Tier List/index.html",
+    "site/500 Tier Lists/Ömer Tier List/index.html",
+    "site/500 Tier Lists/Kerem Tier List/index.html",
+    "site/500 Tier Lists/Harun Tier List/index.html",
+    "site/500 Tier Lists/Elif Tier List/index.html",
+    "site/500 Tier Lists/Abdülkadir Tier List/index.html",
+    "site/500 Tier Lists/Seçil Tier List",
+    "site/500 Tier Lists/Ömer Tier List",
+    "site/500 Tier Lists/Kerem Tier List",
+    "site/assets/images/favicon.png",
+    "docs/500 Tier Lists/Harun Tier List.md",
+    "docs/500 Tier Lists/Elif Tier List.md",
+    "docs/500 Tier Lists/Abdülkadir Tier List.md",
+    "docs/index.md",
+    "docs/100 Rehberler/Alkol Kuralları.md"
+  ]
+}
