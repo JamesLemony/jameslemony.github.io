@@ -1,0 +1,74 @@
+{
+  "github": {
+    "user": "jameslemony",
+    "repo": "jameslemony.github.io",
+    "branch": "main",
+    "token": "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",
+    "automaticallyMergePR": true,
+    "api": {
+      "tiersForApi": "Github Free/Pro/Team (default)",
+      "hostname": ""
+    },
+    "worflow": {
+      "customCommitMsg": "[PUBLISHER] Merge",
+      "workflowName": ""
+    }
+  },
+  "upload": {
+    "behavior": "obsidian",
+    "defaultName": "docs",
+    "rootFolder": "",
+    "yamlFolderKey": "",
+    "frontmatterTitle": {
+      "enable": false,
+      "key": "title"
+    },
+    "replaceTitle": [],
+    "replacePath": [],
+    "autoclean": {
+      "enable": false,
+      "excluded": []
+    },
+    "folderNote": {
+      "enable": false,
+      "rename": "index.md"
+    },
+    "metadataExtractorPath": ""
+  },
+  "conversion": {
+    "hardbreak": true,
+    "dataview": true,
+    "censorText": [],
+    "tags": {
+      "inline": false,
+      "exclude": [],
+      "fields": []
+    },
+    "links": {
+      "internal": true,
+      "unshared": false,
+      "wiki": true,
+      "slugify": false
+    }
+  },
+  "embed": {
+    "attachments": true,
+    "keySendFile": [],
+    "notes": false,
+    "folder": ""
+  },
+  "plugin": {
+    "shareKey": "share",
+    "fileMenu": false,
+    "editorMenu": false,
+    "excludedFolder": [],
+    "copyLink": {
+      "enable": false,
+      "links": "",
+      "removePart": [],
+      "addCmd": false
+    },
+    "noticeError": false,
+    "displayModalRepoEditing": false
+  }
+}
