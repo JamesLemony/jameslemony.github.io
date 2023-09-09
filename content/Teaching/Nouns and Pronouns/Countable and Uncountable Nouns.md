@@ -10,15 +10,16 @@ Tekil isimler, tek olan, sayılabilir bir isimden bahsederken kullanılır. "Bab
 ##### Tekil ve Çoğul Halleri Aynı Olan İsimler  
 İngilizcede bazı isimler, tekil ve çoğul olabilmelerine rağmen, aynı şekilde yazılarak, iki şekilde de kullanılabilirler. Bu kelimelerden en bilineni "fish" kelimesidir. "Fish", hem tekil olarak hem de çoğul olarak kullanılabilir.  
 
-Fish are swimming in the lake.  
-Fish is swimming in the lake.  
-All the fish in the sea are under the risk of being poisoned by the high pollution levels in the water.  
-The boy struggled to keep the fish in the tank alive, but in the end only one fish could survive.  
-
-The sheep were jumping.  
-The sheep was jumping.  
-There was only one sheep in the meadows, and till the end of the hill there was nothing visible other than the green grass.  
-The Shepard was too careless, so the wolf had no trouble entering the barn and killing all the sheep.  
+> [!EXAMPLE]  
+> Fish are swimming in the lake.  
+> Fish is swimming in the lake.  
+> All the fish in the sea are under the risk of being poisoned by the high pollution levels in the water.  
+> The boy struggled to keep the fish in the tank alive, but in the end only one fish could survive.  
+>  
+> The sheep were jumping.  
+> The sheep was jumping.  
+> There was only one sheep in the meadows, and till the end of the hill there was nothing visible other than the green grass.  
+> The Shepard was too careless, so the wolf had no trouble entering the barn and killing all the sheep.  
 
 > [!TIP] Ek bilgi!  
 > Tekil isimler, başına "A/an ve the" alabilirken çoğul isimler ise başlarına sadece "The" alabilir çünkü tekil değillerdir.  
