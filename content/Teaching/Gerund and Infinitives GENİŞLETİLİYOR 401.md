@@ -2,7 +2,7 @@
 
 Gerund demek, fiilin -ing alması demektir. Fakat her -ing alan fiil gerund olmaz. Continuous filler de -ing alabilir.  
 Gerund olmak demek, fiilin isimleşmesidir. Yani, Türkçede, isim-fiil olmaktır.  
-Infinitive ise fiiiling başına “to” getirilerek yapılır.  
+Infinitive ise fiilin başına “to” getirilerek yapılır.  
 
 > [!INFO] Her ikisi de cümlenin öznesi olarak kullanılabilir.  
 >  

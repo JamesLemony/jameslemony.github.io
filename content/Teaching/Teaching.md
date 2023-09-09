@@ -70,7 +70,7 @@
 [[Gerund and Infinitives GENİŞLETİLİYOR 401]]  
 [[Embedded Questions]]  
 [[Passive Voice]]  
-[[Would Rather and Would Prefer YAZILIYOR]]  
+[[Would Rather & Would Prefer & Prefer KARIŞIK]]  
 [[Question Tags]]  
 [[Too - So]]  
 [[Comparatives and Superlatives]]  
