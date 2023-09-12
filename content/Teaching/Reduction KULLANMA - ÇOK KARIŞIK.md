@@ -154,8 +154,8 @@ These are the people we should help.
 > [!INFO] Eğer ilk cümlenin nesnesi ile ikinci cümlenin öznesi aynı ise ve farklı bir öznemiz yoksa, bu kural işlemez.  
 > Geceleyen havlayan köpek bu.  
 > This is the dog which barks at night.  
-> This is the dog barks at night. (*OLMAZ*)  
+> This is the dog ~~barks~~🚫 at night.  
 >  
 > Bunlar buraya sürekli gelen insanlar.  
 > These are the people who come here all the time.  
-> These are the people come here all the time. (*OLMAZ*)  
+> These are the people ~~come~~🚫 here all the time.  

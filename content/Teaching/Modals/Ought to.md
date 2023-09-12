@@ -14,20 +14,32 @@ Ought + I/You/We/They/He/She/It + to + V
 > [!EXAMPLE]  
 > I ought to phone my parents.  
 > It ought to be easy now.  
+> You ought to go out once in a while.  
 > We ought to do more exercise.  
 > Medicine ought to be free.  
+> That ought to be worth something.  
+> This ought to do the trick.  
 > They ought to have more parks in the city centre.  
+> I think there ought to be some better way of moving a boat.  
 > We ought to eat lots of fruit and vegetables every day.  
-> Farmers started applying for goverment supported fund and they ought to get their paymments by the end of the month.  
+> If we're going to host ice climbers, we ought to know something about their sport.  
+> Farmers started applying for government supported fund and they ought to get their payments by the end of the month.  
 > They ought to look for a new apartment this week. They said they wanted to move out.  
 > I ought to look more attractive now that I am wearing a red dress. They said I would.  
+> A woman your age ought to be looking for a husband – or already married, not chasing all over creation in pants, trying to act like a man.  
 
 ### B1 Ought To Have (Should Have Like)  
-Past modals'da olduğu gibi, "Ought to" kalıbını "-ed"li formda da kullanabiliriz. Bu gibi kullanımlarda "Should have" ile neredeyse aynı anlamda kullanılır.  
+[[Past Modals]]'da olduğu gibi, "Ought to" kalıbını "-ed"li formda da kullanabiliriz. Bu gibi kullanımlarda "Should have" ile neredeyse aynı anlamda kullanılır.  
 
 > [!EXAMPLE]  
+> They ought to have more parks in the city centre.  
+> We ought to eat lots of fruit and vegetables every day.  
 > We ought to have locked the gate. Then the dog wouldn’t have got out.  
 > I often think that I ought to have studied medicine not pharmacy.  
+> The doctor oughtn’t to have given him the blood thinners.  
+> You ought to have been more careful when you were driving in heavy traffic for the first time.  
+> Mum started cooking four hours ago. She ought to have prepared everything.  
+>  
 
 > [!WARNING] "Ought to" kalıbının negatif ve soru formları yaygın olarak kullanılmaz. Genellikle pozitif formda kullanılması tercih edilir. Özellikle "ought to" ile yapılan soru cümleleri, aşırı formal durur. bu gibi yapılarda, "Should" kullanılması çok daha yaygındır ve güzel durur.  
 >  

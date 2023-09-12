@@ -29,7 +29,7 @@ He was going to go to London but his flight was canceled.
 
 > [!INFO] "Would" ile "be going to" arasındaki farkı, kısaca şu şekilde tanımlayabiliriz. "Be going to" kullandığımızda, "yapacaktım ama yapmadım" gibi bir anlam çıkarken, "would" kullandığımızda, "yapmak istiyordum ama bir şey çıktı, olmadı" anlamı çıkar.  
 >  
-> Dün evi temizleyecektim. --> I would clean the house yesterday. *(OLMAZ)*  
+> Dün evi temizleyecektim. --> I ~~would~~🚫 clean the house yesterday.  
 > I was going to clean the house yesterday.  
 
 > [!EXAMPLE]  

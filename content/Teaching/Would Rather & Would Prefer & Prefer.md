@@ -89,14 +89,14 @@ Yine tercih ederim anlamını taşıyan bir kelime grubu daha. Hemen sonrasında
 
 **Cümle yapısı:**  
 
-Subject + would rather + V (without to).  
+Subject + would rather + V (without to) + than + V (without to).  
 
 > [!EXAMPLE]  
-> I would rather stay at home rather than go out tonight.  
 > I would rather drink that coffee.  
 > I would rather drink hot chocolate than ice-tea.  
-> We would rather go on Monday.  
+> I would rather stay at home rather than go out tonight.  
 > I would rather not fly.  
+> We would rather go on Monday.  
 > She would rather walk than dance.  
 > Would you rather live here or go back to London? I’d rather live here.  
 > I don't want to go to the swimming pool. I would rather go to the beach.  

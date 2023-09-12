@@ -55,8 +55,8 @@ Bir özneyi ya da nesneyi vurgulamak için Reflexive Pronouns kullanılabilir. B
 
 ### Bazı Bariz Fiiller İle Reflexive Pronouns Kullanılmaz  
 Zaten kendi kendine yapıldığı belli olan filler ile Reflexive Pronouns kullanılmaz.  
-He started shaving ~~himself~~ when he grew a full beard. *(OLMAZ)*  
-She dressed ~~herself~~ before she came out. *(OLMAZ)*  
+He started shaving ~~himself~~🚫 when he grew a full beard.  
+She dressed ~~herself~~🚫 before she came out.  
 
 "Dry" ve "enjoy" kelimeleri, bu fiillere istisnadır.  
 My daughter never dries herself after shower and expect me to do that for her.  

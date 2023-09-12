@@ -1,21 +1,32 @@
-## Stative Verbs  
+# Stative Verbs  
 Stative Verbs, ya da diğer adları ile "Non-Action Verbs", haraket ya da eylem belirtmeyen fiiller anlamına gelir. Bu filler, Dynamic Fillerin aksine, bir hareket yerine bir durum bildirirler. Aslında olayları, continuous olarak kullanılmamalarıdır.  
 
-| Possession and Size | Opinion    | Likes and Dislikes | Perception and Senses |  
-| ------------------- | ---------- | ------------------ | --------------------- |  
-| Belong              | Know       | Like               | Sound                 |  
-| Own                 | Agree      | Dislike            | Hear                  |  
-| Have                | Believe    | Love               | Seem                  |  
-| Possess             | Think      | Prefer             | See*                  |  
-| Be                  | Imagine    | Want               | Appear*               |  
-| Weigh               | Understand | Need               | Look*                 |  
-| Measure             |            | Wish               | Taste*                |  
-|                     |            |                    | Smell*                |  
-|                     |            |                    | Feel*                 |  
+| Possession and Size |  Opinion   | Likes and Dislikes | Perception and Senses |  
+|:-------------------:|:----------:|:------------------:|:---------------------:|  
+|       Belong        |    Know    |        Like        |         Sound         |  
+|         Own         |   Agree    |      Dislike       |         Hear          |  
+|        Have         |  Believe   |        Love        |         Seem          |  
+|       Possess       |   Think    |       Prefer       |         See*          |  
+|         Be          |  Imagine   |        Want        |        Appear*        |  
+|        Weigh        | Understand |        Need        |         Look*         |  
+|       Measure       |            |        Wish        |        Taste*         |  
+|                     |            |                    |        Smell*         |  
+|                     |            |                    |         Feel*         |  
 
 > [!NOTE] Yıldızlı fiiller, eğer istek ile gerçekleşen eylemleri belirtiyorsa, continuous alabilir.  
 > This soup tastes horrible.  
 > I am tasting the soup.  
+
+> [!NOTE] Diğer bazı filler de bazı durumlarda -ing alabilir. Bu fillere daha fazla örnek, aşağıda verildi.  
+> I am having a good time.  
+> I am weighing the apples.  
+> Are you measuring your length at the moment?  
+> You are being really annoying.  
+> Believing me is not enough, you have to love me as well.  
+> She was wishing me a good trip when the earthquake happened.  
+> I was having dinner when someone knocked at the door.  
+> They are having a party on Saturday.  
+> He is being very kind to us.  
 
 > [!EXAMPLE]  
 > Ali owns three cars.  
@@ -30,7 +41,7 @@ Stative Verbs, ya da diğer adları ile "Non-Action Verbs", haraket ya da eylem 
 > You sound sad.  
 > You are sounding sad.  
 
-## Dynamic Verbs  
+# Dynamic Verbs  
 Dynamic Verbs, Stative fiillerin aksine, bir hareketi, değişimi ya da süreci tanımlarlar. Dynamic Verbs, hem continuous olarak kullanılabilirler hem de simple olarak kullanılabilirler.  
 
 > [!EXAMPLE]  

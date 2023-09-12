@@ -12,6 +12,7 @@ Devam eden demektir. Devam eden eylemleri bildirirken kullanılır. Eylemin hale
 
 ###### Past  
 Geçmiş anlamına gelir ve geçmiş zamanlar için kullanılır. Past olduğu zaman fiil ya da yardımcı fiil ikinci halinde kullanılır. Past Tense'de iki adet "do" fiili kullanılabilir. Bu gibi kullanımlarda ilk "do" yardımcı fiil olarak çekilir ve "did" olarak kullanılır. İkinci "do" ise cümlenin ana fiili olur ve cümlenin formuna göre uygun şekilde çekimlenir.  
+
 I didn't do my homework.  
 Did you do this?  
 
@@ -22,22 +23,25 @@ Future Tense'ler, fiilin durumu bakımından ilk halindedir. Yardımcı fiil "wi
 Perfect, tense dilinde, üçüncü haldeki fiil demektir. Perfect kullanıldığında vurgu, eylemin gerçekleşmiş olmasında değil, eylemin sonucunun, genelde şu ana, etkisidir. Anlaşılması zor olmasına rağmen, yapısal olarak çok zor değildir. Eğer bir tense'in isminde perfect varsa, bir şeyin üçüncü halde bulunması gerekir. Perfect Tense'lerde yardımcı fiil "have"dir. "Have", tense'e göre çekilir. Perfect Tense'ler, Türkçemizde bulunmadığı için anlamsal olarak karıştırılması normaldir. Latince kökenli "perfectum" kelimesinden gelir. Anlamı "complete" yani tamamlanmış demektir.  
 
 Perfect zamanlarda iki tane "have" fiili aynı cümle içerisinde bulunabilir. Fakat ikinci "have" üçüncü halinde bulunmak zorundadır.  
+
 I have had that car for a long time.  
-She felt marvelous after she had had a good night’s sleep.  
+She felt marvellous after she had had a good night’s sleep.  
 
 #### "Be"nin Kullanımı  
 "Be"nin asıl kullanımı, Tense'lerde, Continuous Tense'ler ile birlikte, yardımcı fiil olarak kullanımıdır. "Be", bulunduğu tense'e göre çekilerek konulması gerekir. Kendi halinde yardımcı fiil olarak bulunmaz. Present Tense'lerde "Am/Is/Are", Past Tense'lerde, ikinci halinde olması sebebi ile, "Was/Were", Perfect Tense'lerde ise, üçüncü halinde olması gerektiği için, "Been" olarak kullanılır. Future Tense'lerde sadece "be" olarak kullanılır. Tense'lerde kullanıldığında sonrasında "-ing"li bir fiil gelmesi gerekir. Eğer "-ing"li bir fiil gelmezse, **kesinlikle karıştırılmamalıdır.** "Be", cümlenin ana fiili olarak da kullanılabilir. Eğer kendisinden sonra "-ing" yoksa, cümlenin asıl fiili "be"dir.  
 
 "Be", bazı durumlarda, cümlenin içerisinde hem yardımcı fiil hem de ana fiil olarak bulunabilir. Bu durumda "be", ana fiil olarak çekilmeden, "be" olarak kalır.  
+
 I am being annoying.  
 She was being lazy.  
 
 Modal'lardan sonra da eğer "be" getirmemiz gerekirse "be", herhangi bir şekilde çekilmeden, yalın hali ile kullanılır.  
-I can be awsome!  
+
+I can be awesome!  
 You should be careful.  
 
-###### "Be"nin Kalıp Ifadelerde Kullanımı  
-"Be", bazen bazı kalıplarda da kullanılabilir. "Be going to" ya da "Be able to" gibi. Bu gibi kalıplardaki "be", cümleye uygun tense'e göre çekilebilir. Sanılanın aksine "be", sadece present tense'de olmak zorunda değildir. Past Tense'de de kullanılabilir.  
+###### "Be"nin Kalıp İfadelerde Kullanımı  
+"Be", bazen bazı kalıplarda da kullanılabilir. "Be going to" ya da "Be able to" gibi. Bu gibi kalıplardaki "be", cümleye uygun tense'e göre çekilebilir. Sanılanın aksine "be", sadece Present Tense'de olmak zorunda değildir. Past Tense'de de kullanılabilir.  
 
 "Be going to", Past Tense'de yapıldığında yani "was/were going to" olarak kullanıldığında, anlam farkı vardır. "Was/were going to" ile kurulan cümleler, yapılmamıştır. Bu tarz anlam farklılıkları, "be"nin içinde bulunduğu kalıpların Past versiyonlarında da genellikle geçerlidir.  
 

@@ -62,9 +62,9 @@ The Arabs have been enjoying the wealth oil has brought but it will disappear on
 > I have been wanting/wishing/waiting/hoping to explore the Asian continent and all its beauties.  
 
 > [!INFO] Aniden başlayıp biten ya da devam edemeyen fiiller, Present Perfect Continuous Tense ile kullanılmaz.  
-> My niece has been graduating from his university. *OLMAZ*  
-> Karen and Toby have been getting married. *OLMAZ*  
-> She has been breaking his foot. *OLMAZ*  
+> My niece ~~has been graduating~~🚫 from his university.  
+> Karen and Toby ~~have been getting married~~🚫.  
+> She ~~has been breaking~~🚫 his foot.  
 
 > [!EXAMPLE]  
 > I have been studying for three hours.  

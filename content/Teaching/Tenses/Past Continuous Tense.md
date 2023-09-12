@@ -15,7 +15,7 @@ You/We/They + were not/weren't + Ving
 Was + I/He/She/It + Ving  
 Were + You/We/They + Ving  
 
-Bazı fiiller ([[Stative Verbs YAZILIYOR 2023-08-18]]), genelde, continuous olmaz. Bazıları: love, hate, know, need.  
+Bazı fiiller ([[Stative & Dynamic Verbs]]), genelde, continuous olmaz. Bazıları: love, hate, know, need.  
 
 > [!INFO] Past Continuous Tense kullanmamız, ne anlatmak istediğimize bağlıdır. Bu tense biz, genelde, "bir şey oluyorken başka bir şey oldu" gibi cümlelerde kullanırız. Eğer tense'i continuous yapmaya gerek yoksa, continuous yapmayız. Bu şekilde cümleler kurarken de "when" veya "while" gibi bağlaçlar kullanıyoruz.  
 

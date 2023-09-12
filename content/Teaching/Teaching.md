@@ -70,12 +70,12 @@
 [[Gerund and Infinitives GENİŞLETİLİYOR 401]]  
 [[Embedded Questions]]  
 [[Passive Voice]]  
-[[Would Rather & Would Prefer & Prefer KARIŞIK]]  
+[[Would Rather & Would Prefer & Prefer]]  
 [[Question Tags]]  
 [[Too - So]]  
 [[Comparatives and Superlatives]]  
 [[Reduction KULLANMA - ÇOK KARIŞIK]]  
-[[Stative Verbs YAZILIYOR 2023-08-18]]  
+[[Stative & Dynamic Verbs]]  
 
 ### Activities  
 [[Never Have I Ever]]  
