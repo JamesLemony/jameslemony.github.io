@@ -1,6 +1,7 @@
 import { PluggableList } from "unified"
 import { QuartzTransformerPlugin } from "../types"
 import { Root, HTML, BlockContent, DefinitionContent, Code, Paragraph } from "mdast"
+import { Element, Literal } from "hast"
 import { Replace, findAndReplace as mdastFindReplace } from "mdast-util-find-and-replace"
 import { slug as slugAnchor } from "github-slugger"
 import rehypeRaw from "rehype-raw"
@@ -21,6 +22,7 @@ export interface Options {
   callouts: boolean
   mermaid: boolean
   parseTags: boolean
+  parseBlockReferences: boolean
   enableInHtmlEmbed: boolean
 }
 
@@ -31,6 +33,7 @@ const defaultOptions: Options = {
   callouts: true,
   mermaid: true,
   parseTags: true,
+  parseBlockReferences: true,
   enableInHtmlEmbed: false,
 }
 
@@ -121,6 +124,7 @@ const calloutLineRegex = new RegExp(/^> *\[\!\w+\][+-]?.*$/, "gm")
 // (?:[-_\p{L}])+       -> non-capturing group, non-empty string of (Unicode-aware) alpha-numeric characters, hyphens and/or underscores
 // (?:\/[-_\p{L}]+)*)   -> non-capturing group, matches an arbitrary number of tag strings separated by "/"
 const tagRegex = new RegExp(/(?:^| )#((?:[-_\p{L}\d])+(?:\/[-_\p{L}\d]+)*)/, "gu")
+const blockReferenceRegex = new RegExp(/\^([A-Za-z0-9]+)$/, "g")
 
 export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options> | undefined> = (
   userOpts,
@@ -411,11 +415,38 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options> 
           }
         })
       }
-
       return plugins
     },
     htmlPlugins() {
-      return [rehypeRaw]
+      const plugins = [rehypeRaw]
+
+      if (opts.parseBlockReferences) {
+        plugins.push(() => {
+          return (tree, file) => {
+            file.data.blocks = {}
+            const validTagTypes = new Set(["blockquote", "p", "li"])
+            visit(tree, "element", (node, _index, _parent) => {
+              if (validTagTypes.has(node.tagName)) {
+                const last = node.children.at(-1) as Literal
+                if (last.value && typeof last.value === "string") {
+                  const matches = last.value.match(blockReferenceRegex)
+                  if (matches && matches.length >= 1) {
+                    last.value = last.value.slice(0, -matches[0].length)
+                    const block = matches[0].slice(1)
+                    node.properties = {
+                      ...node.properties,
+                      id: block,
+                    }
+                    file.data.blocks![block] = node
+                  }
+                }
+              }
+            })
+          }
+        })
+      }
+
+      return plugins
     },
     externalResources() {
       const js: JSResource[] = []
@@ -452,5 +483,11 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options> 
 
       return { js }
     },
+  }
+}
+
+declare module "vfile" {
+  interface DataMap {
+    blocks: Record<string, Element>
   }
 }
