@@ -1,4 +1,6 @@
-Present Perfect Tense, geçmişte gerçekleşmiş fakat etkisini hala gösteren eylemlerden bahsederken kullanılır.  
+Present Perfect Tense, geçmişte gerçekleşmiş fakat etkisini hala gösteren eylemlerden bahsederken kullanılır. Bu tenle yapılmış eylemler, geçmişte gerçekleşmiş, olup bitmiş şu anla bir şekilde alakalı olan eylemlerdir.  
+
+Daha da açıklamak gerekirse, "I have lost my wallet." cümlesi, "Cüzdanımı kaybettim, hala bulamadım/arıyorum." şeklinde çevrilebilir. Burada dikkat etilmesi gereken şey, cüzdanın hala bulunamamış olduğudur. Eğer cüzdan bulunmuş olsa cümle "I lost my wallet." şeklinde kurulur. Aralarındaki fark da şudur: Present Perfect ile kurulan cümle, bir şekilde şu anda ilişkilidir ama Past Tense ile kurulan cümle ise bitmiştir.  
 
 **Olumlu cümle yapısı:**  
 

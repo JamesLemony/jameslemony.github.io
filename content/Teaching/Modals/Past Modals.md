@@ -24,7 +24,7 @@ He could have left a note for me before he left. *Gitmeden önce bir not bıraka
 > [!INFO] "Can't" veya "Couldn't", geçmiş zamanda kullanılabiliyor Past Modal yapısını takip ettiği sürece. Anlamda da çok bir değişiklik olmuyor.  
 
 She can't have lifted the heavy desk all by herself. *O ağır masayı, tek başına kaldırmış olamaz.*  
-I couldn't have found a better solutuion *Ben, daha iyi bir çözüm bulamazdım.*  
+I couldn't have found a better solution *Ben, daha iyi bir çözüm bulamazdım.*  
 He can't have enough votes because almost nobody in this town likes him. *Yeterince oy almış olamaz çünkü bu şehirdeki neredeyse hiç kimse onu sevmiyor.* He must have cheated. *Hile yapmış olmalı.*  
 
 He might have cheated. *Hile yapmış olabilir.*  
