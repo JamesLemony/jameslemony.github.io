@@ -49,7 +49,7 @@ Ought + I/You/We/They/He/She/It + to + V
 > Ought she to call the police?  
 > Ought we to be more worried about the environment?  
 
-### B1 Ought To + Ving  
+### B1 Ought To Be + Ving  
 Should ile oldukça benzer olarak "ought to", sonrasında "be + Ving" alarak, konuşma sırasında yapılıyor olması gereken şeyleri söylerken de kullanılır.  
 
 > [!EXAMPLE]  
