@@ -22,6 +22,11 @@ He was going to go to London but his flight was canceled.
 > You were ==gonna== call me two days ago.  
 > We were ==gonna== play soccer at school the other day.  
 > They were going to meet me at the airport early in the morning.  
+> Alex was going to college when his parents died in the plane crash.  
+> You weren't going to introduce him to me, right?  
+> Was that why she looked like she was going to cry?  
+> I was beginning to wonder if you were ever going to arrive.  
+> I was going to tell you - as soon as I had a handle on it.  
 
 ## Would  
 

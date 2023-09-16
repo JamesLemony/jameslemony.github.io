@@ -4,6 +4,7 @@ Karşımıza, Relative Clauses ya da Adjective Clauses diye de çıkabilirler.
 "Who" insanları, "Which" nesneleri, "Where" yerleri, "When" zamanı, "Whose" aitliği, "Whom" insan olan nesneleri, "Why" ise sebebi bildirir.  
 
 ### Who  
+İnsanlar hakkında bilgi verirken kullanılır.  
 "Komşum olan Ted bir avukat." cümlesi aslında iki cümleden oluşur.  
 Ted bir avukat. / Ted benim komşum.  
 Ted, who is my lawyer, is my neighbor.  
@@ -28,6 +29,7 @@ Ted, who is my neighbor, is a lawyer.
 > Yesterday, I called Ted, who is a lawyer.  
 
 ### Whom  
+İnsan olan nesneler için kullanılır.  
 "Whom", nesne durumunda bulunan insanlar için kullanılır. "Who" ile karıştırılması oldukça muhtemeldir. Eğer bir şekilde karıştırıyorsak, "who" kullanmamız daha güvenli olacaktır.  
 
 > [!TIP] "My, your, his, her, its, our, their" gibi aitlik sıfatları geçiyorsa, "whose"; "Him, her, them" gibi nesne zamirleri geçiyorsa da whom kullanırız.  
@@ -51,9 +53,11 @@ Ted, who is my neighbor, is a lawyer.
 > With whom am I speaking?  
 
 ### Which  
+Objeler için kullanılır.  
+
 O, on farklı girişi olan, epey pahalı bir televizyon.  
-That television, which is really pricy, has ten diffrent inputs.  
-That is a really privy television, which has ten diffrent inputs.  
+That television, which is really pricy, has ten different inputs.  
+That is a really privy television, which has ten different inputs.  
 
 > [!EXAMPLE]  
 > Tornado, which is a very dangerous and destructive natural phenomenon, requires immediate evacuation.  
@@ -75,6 +79,8 @@ I need two volunteers that need to be seniors.
 I have found an old chest that was hidden in the attic.  
 
 ### Where  
+Yerler için kullanılır.  
+
 İngiltere, benim doğduğum ülkedir.  
 England is the country where I was born.  
 
@@ -106,6 +112,8 @@ This is the junction where the accident took place.
 > Çöl, insanın içinde kolayca kaybolabileceği, uçsuz bucaksız bir alandır.  
 
 ### When  
+Zamanlar için kullanılır.  
+
 1979, benim doğduğum yıldır.  
 1979 is the year when I was born.  
 
@@ -123,6 +131,8 @@ There were times when people used to respect each other.
 > [!TIP] "My, your, his, her, its, our, their" gibi aitlik sıfatları geçiyorsa, "whose" kullanırız.  
 
 ### Whose  
+Aitlik bildirmek için kullanlır.  
+
 Köpeği Bloodhound olan yaşlı adam bir avcı.  
 The old man, whose dog is a bloodhound, is a hunter.  
 
@@ -142,6 +152,8 @@ He was bitten by a fish whose teeth were sharp as a razor.
 > The factory where a thousand people worked has been shut down.  
 
 ### Why  
+Sebep bildirmek için kullanlır.  
+
 Bankamatikten para çekme sebebim, hiç paramın olmamasıydı.  
 The reason why I withdrew some money from the ATM was, I had no cash.  
 

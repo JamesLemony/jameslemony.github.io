@@ -17,20 +17,42 @@ He/She/It + is going to + V1
 > He was going to win.  
 > She was going to catch the thief but she couldn't.  
 > They were going to speak.  
+> Speed was going to be lower than the failure point but it was increased with the wind.  
 
 > [!EXAMPLE]  
 > I will clean the house soon.  
 > He will wash his car in the garage.  
 > She will know the answer in a minute.  
 > I will eat a banana after two days.  
-> You'll drink lemonade in the garden tonight.  
+> You will drink lemonade in the garden tonight.  
 > We will play soccer at school soon.  
 > They will dance in the prom.  
+> Will they follow us?  
+> What will you do?  
 > I will give you a lift if you like.  
-> I'll have chicken soup.  
+> I will have chicken soup.  
+> Mom will be back soon.  
+> Things will get better.  
+> If the people of Boston must fight for their liberty, we will help them.  
+> Yeah, but will it work up there?  
+> And while it may not be perfect, life will be profoundly better for everyone on the planet.  
+> It will be different this time, he said, cuddling her against his chest as if she were a child.  
+> Once you have tried my goods I am sure you will never be without them.  
+>  
 >  
 > It is going to be cold in February.  
 > Are you going to school?  
 > He is going to clean the house.  
 > They aren't going to go to swimming.  
+> Well, are you going to let me in?  
+> You're going to make yourself sick.  
+> He wasn't going to buy it.  
+> I'm going to take a warm shower.  
+> Are you going to change?  
 > Mary is going to begin medical school next year.  
+> What are you going to fix?  
+> Alex, I'm going to look at a house with your father.  
+> What time are we going to leave tomorrow?  
+> You're going to have a little brother or sister.  
+> If you don't open this door I'm going to kick it open.  
+> You're going to be too sore to walk tomorrow.  
