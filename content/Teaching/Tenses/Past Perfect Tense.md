@@ -15,12 +15,19 @@ He/She/It + had not (hadn’t) + V3
 Had + I/You/We/They + V3  
 Had + He/She/It + V3  
 
-> [!INFO] Past Perfect Tense’i, başlıca olarak, zaman sıralaması yaparken, önce gelen eylemi yazarken kullanırız.  
+> [!INFO] Past Perfect Tense’i, başlıca olarak, zaman sıralaması yaparken, kronolojik olarak önce gelen eylemi yazarken kullanırız.  
 > My father had left when I came home.  
 > As soon as he had won the lottery, he bought a house.  
+> After I had tried out the pepper spray in the house, our eyes itched for days.  
+> I got pulled over by the police a day after I had gotten my driver's license.  
+> It had been three hours when we noticed that my nephew was gone.  
 
 > [!INFO] Eğer iki olay arasında kayda değer bir zaman farkı yoksa, iki tarafta da Simple Past Tense kullanabiliriz.  
 > As soon as I saw him, I said hi.  
+> She looked at me when he passed me with her car.  
+> They liked the idea when they heard about it.  
+> Mahmut called me as soon as he got lost.  
+> The lights stayed on a second after the electricity went out.  
 
 > [!NOTE] Past Perfect Tense, tek başına, mişli geçmiş zamanda kurduğumuz cümleleri anlatmak için de kullanabilir.  
 >  

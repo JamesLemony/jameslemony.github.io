@@ -30,7 +30,7 @@ It has been over 10 years since I last visited Europe.
 For, eylemin ne kadar süredir gerçekleştiğini anlatmak için kullanılır. Genelde, Türkçeye çevirilerken, cümlelerin içine katılmaz. Katılırsa da "süreyle" diye çevrilebilir.  
 
 > [!EXAMPLE]  
-> I has been raining for one hour.  
+> It has been raining for one hour.  
 > I have been studying for 2 hours.  
 > He has lived in London for three months.  
 > We've been married for 22 years.  
