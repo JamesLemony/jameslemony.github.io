@@ -17,7 +17,7 @@ Abdülkadir, Aylin, Mert
 Sercan Hoca, Ayça Hoca  
 
 ## Sokaktan Geçenler  
-İlayda, Lal, Zehra Abla  
+Zehra Abla  
 
 # Tier List Nedir?  
 1. Tier List, benim, hayatımdaki insanların takibini tutmak için kullandığım, onların, benim hayatımdaki yerini gösteren, özel bir listedir.  

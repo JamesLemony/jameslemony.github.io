@@ -7,7 +7,7 @@ To lose weight, I decided to stop eating sugar.
 
 Olumsuz cümlelerde “In order not to” kalıbı kullanılır.  
 
-He walked quitely through the house in order not to wake everyone up.  
+He walked quietly through the house in order not to wake everyone up.  
 In order not to be late for school, I always set my alarm.  
 
 **Infinitive’lerdeki gibi, in order to, gelecek için konuşurken kullanılır.**  
