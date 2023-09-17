@@ -43,5 +43,25 @@ I would have helped you last week if I hadn't been overwhelmed. *Eğer geçen ha
 > I should have said something.  
 > You couldh have saved him Paul.  
 > I might have strayed from my notes a litte bit. *Notlarımdan biraz sapmış olabilirim.*  
-> They could have dropped me.  
+> Elsa could have dropped the phone while running.  
 > If you didn't wanna do it, you should have said something.  
+> She should have studied more for the exam.  
+> He could have helped you with the project.  
+> They might have missed the train.  
+> I would have visited you if I had known you were in town.  
+> She must have forgotten her keys at home.  
+> He should not have driven after drinking.  
+> They could have finished the race if they had trained harder.  
+> I would have bought that dress if it had been on sale.  
+> She might have left her phone in the car.  
+> He must have lost his way because he's not here yet.  
+> She should have double-checked the directions before leaving.  
+> He may have left his wallet at the restaurant.  
+> They should not have ignored the warning signs.  
+> I would have joined the club if I had more free time.  
+> She could have called to let us know she'd be late.  
+> He must have misunderstood the instructions.  
+> They might have taken a wrong turn on the way to the party.  
+> I should have brought an umbrella; it's raining heavily now.  
+> She would have been happier if she had chosen a different career.  
+> He must have misplaced his glasses because he can't find them anywhere.  

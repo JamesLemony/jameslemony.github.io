@@ -24,18 +24,37 @@ They have been married for two years.
 He hasn’t travelled overseas before.  
 
 > [!INFO] Bazı time expression’lar, Present Perfect Tense’e yatkındır. **Fakat her zaman Present Perfect Tense kullanılacağı anlamına gelmez.** Last week, yesterday, last month, last year, 2000 gibi zaman bildiren kelimeler, Past Tense’e yatkındır. This week, today, this month gibi kelimeler ise Present Perfect Tense’e yatkındır.  
+> He barrowed my car yesterday.  
+> He has barrowed my car yesterday. *(Bu cümleler, ikisi de yesterday zarfını kullamasına rağmen, farklı tens'ler ile kurulabilir. İlk cümlede, arabamı geri aldığım anlamı çıkar. İkinci cümlede ise arabamın hala onda olduğu anlamı çıkar.)*  
 >  
 > Last month, I visited my brother three times.  
 > This month, I have visited my brother twice. (O ay bitmediği için bir kere daha ziyaret edebilir.)  
-> He barrowed my car yesterday.  
-> He has barrowed my car yesterday. *(Bu cümleler, ikisi de yesterday zarfını kullamasına rağmen, farklı tens'ler ile kurulabilir. İlk cümlede, arabamı geri aldığım anlamı çıkar. İkinci cümlede ise arabamın hala onda olduğu anlamı çıkar.)*  
-> He hasn’t eaten a lot today.  
+> He has not eaten a lot today.  
+> I have traveled to Europe twice in the last year.  
+> She has completed two marathons since last month.  
+> They have redecorated their house over the past summer.  
+> He has eaten at that restaurant several times last month.  
+> We have watched all the episodes of that TV series last week.  
+> She has read three books in the last two months.  
+> I have visited my grandparents twice in the past year.  
+> They have gone on vacation three times in the last six months.  
+> He has fixed the car twice since last year.  
+> We have hosted dinner parties on numerous occasions in the past few months.  
 
 > [!INFO] Bazı eylemler, bir kere yapıldıktan sonra, hayatınız boyunca yapılmış sayılır. Bu tarz cümlelerde, Present Perfect Tense kullanılır.  
->  
 > Have you been to Thailand?  
 > Have you ever drunk alcohol before?  
 > I have slept in a bunker before.  
+> I have visited Paris three times.  
+> She has never ridden a hot air balloon.  
+> They have traveled to five different countries.  
+> He has tasted sushi before, and he loved it.  
+> We have seen that movie more than once.  
+> She has met several famous celebrities.  
+> I have never tried skydiving.  
+> They have attended many music festivals.  
+> He has climbed the tallest mountain in the region.  
+> We have experienced some incredible adventures together.  
 
 > [!EXAMPLE]  
 > I have asked my parents to loan me some money.  
