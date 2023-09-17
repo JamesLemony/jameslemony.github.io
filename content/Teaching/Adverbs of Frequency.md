@@ -121,6 +121,16 @@ Nadiren/neredeyse hiç anlamına gelir.
 > They rarely spoke of their future life.  
 > I rarely sleep in my bed because I have to stay on duty in the hospital very often.  
 > He rarely allowed himself that privilege.  
+> I rarely eat spicy food because I can't handle the heat.  
+> She rarely misses a day at the gym, rain or shine.  
+> I rarely watch horror movies because they scare me too much.  
+> They rarely visit their relatives who live far away.  
+> I rarely check my email on weekends to disconnect from work.  
+> He rarely speaks up in class, but when he does, it's insightful.  
+> We rarely have dessert, but tonight is a special occasion.  
+> She rarely takes vacations, preferring to work year-round.  
+> I rarely stay up late anymore; I need my sleep.  
+> They rarely argue and usually find common ground.  
 
 ### 0% - Never:  
 Asla anlamına gelir.  

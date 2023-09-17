@@ -42,7 +42,7 @@ I would have helped you last week if I hadn't been overwhelmed. *Eğer geçen ha
 > I could have saved him.  
 > I should have said something.  
 > You couldh have saved him Paul.  
-> I might have strayed from my notes a litte bit. *Notlarımdan biraz sapmış olabilirim.*  
+> I might have strayed from my notes a litle bit.  
 > Elsa could have dropped the phone while running.  
 > If you didn't wanna do it, you should have said something.  
 > She should have studied more for the exam.  

@@ -54,6 +54,16 @@ More Expensive = Daha Pahalı
 > Today is a bit colder than usual.  
 > This car is quite smallar than the others.  
 > This one is slightly more expensive.  
+> The new smartphone is faster than the old one.  
+> She is taller than her younger sister.  
+> This book is more interesting than the one I read last week.  
+> The red dress looks better on you than the blue one.  
+> Running is more exhausting than swimming.  
+> His painting skills are improving; this one is better than his last.  
+> The winter in Canada is colder than in my hometown.  
+> This pizza is tastier than the one we had last week.  
+> The new coffee shop is much cozier than the old one.  
+> Her presentation was more engaging than the previous speaker's.  
 
 Türkçedeki "gitgide" yapısını, İngilizcede 2 kere aynı Comparative'i yaparak veriyoruz.  
 
@@ -100,3 +110,13 @@ The Most Expensive = En Pahalı
 > My house is the largest one in our neighbourhood.  
 > Your dog ran the fastest of any dog in the race.  
 > We all threw our rocks at the same time. My rock flew the highest.  
+> Mount Everest is the highest peak in the world.  
+> She's the fastest runner on the track team.  
+> That movie was the most exciting I've ever seen.  
+> This restaurant has the best pasta in town.  
+> He is the smartest student in our class.  
+> The Grand Canyon is one of the most breathtaking natural wonders.  
+> This cake is the most delicious dessert I've ever tasted.  
+> She is the most talented musician in the orchestra.  
+> The Eiffel Tower is one of the most iconic landmarks globally.  
+> That was the most memorable vacation I've ever taken.  
