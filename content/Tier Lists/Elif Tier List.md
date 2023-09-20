@@ -1,1 +1,0 @@
-bir daha bok yaparım :)  
