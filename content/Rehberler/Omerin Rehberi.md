@@ -1,3 +1,8 @@
+---  
+title: Ömer'in Rehberi  
+aliases:  
+  - Ömer'in Rehberi  
+---  
 ## Bölüm 1: Temel Kavramlar ve Düşünceler  
 1. Ben bir INTJ’im. Eğer ne olduğunu bilmiyorsan, Google’layabilirsin. Aratmasan da olur. Bu yazıyı okurken, ne olduğunu bilmene gerek yok. Basitçe, **zamanıma** çok değer veriyorum. Bunu, birine ne kadar değer verdiğimi ölçmek için kullanabilirsin. Eğer biri hakkında çok düşünüyorsam, başkalarına sorular soruyorsam o kişi hakkında, ilişkimi düzeltmeye çalışıyorsam ve genel olarak ne dediğine dikkat ediyorsam, o kişiye değer veriyorum demektir. Burada karıştırılmaması gereken bir konu, benim vakit geçirdiğim herkesi aslında değerli bulmadığımdır. Eğer birine değer veriyorsam, kısaca, boş vaktimde, onunla alakalı şeyler düşünürüm. Eğer biriyle konuşmam bittikten sonra, bir sonraki konuşmaya kadar hiç o kişiyi düşünmemişsem, muhtemelen o kişi benim için hiçbir şey ifade etmiyordur. Fakat görüşmemiz arasında “bu konuyu düşündüm” gibi ifadeler kullanıyorsam, sana değer veriyorum demektir.  
 2. Değer verdiğim insanlar, **hayatımın merkezini** oluşturuyor. Hayatımda, oldukça az insana değer veriyorum ve bu insanların iyiliği ve güvenliği için çok çalışıyorum. Değer verdiğim insanların, benim için ne kadar önemli olduğunu anlatamam. Onlara gelebilecek en ufak zararda, birçok şeyi feda edip, onların yardımına koşabilirim. Eğer değer verdiğim bir insana zarar verirsen, sinirli biri olduğumu göreceksin.  

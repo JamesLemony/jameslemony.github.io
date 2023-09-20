@@ -1,3 +1,8 @@
+---  
+title: Çanta Kuralları  
+aliases:  
+  - Çanta Kuralları  
+---  
 1. Çantama, benden direkt olarak izin almadan, sakın dokunma.  
 
 > [!EXAMPLE] Örnek olay  

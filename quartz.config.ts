@@ -41,6 +41,7 @@ const config: QuartzConfig = {
         },
       },
     },
+    description: ""
   },
   plugins: {
     transformers: [
@@ -70,6 +71,7 @@ const config: QuartzConfig = {
       Plugin.Assets(),
       Plugin.Static(),
       Plugin.NotFoundPage(),
+      Plugin.Offline(),
     ],
   },
 }

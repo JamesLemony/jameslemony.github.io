@@ -1,7 +1,12 @@
+---  
+title: Alkol Kuralları  
+aliases:  
+  - Alkol Kuralları  
+---  
 1. Bunlar kural değiller. Sadece bana değer veriyorsan, yapmanı istediğim şeyler bunlar. Hepsini okurken, bunların bir kural değil de bir rica olduğunu aklında bulundur.  
 
 > [!INFO] Bilgi  
->    Aklı başında, normal bir insanın yapacağının, muhtemelen, yüzlerce katı kadar araştırma, okuma ve sorgulama yaptım içki konusunda. Bunları yapmamın sebebi, sizin, sarhoş olmanız durumunda, güvende olacağınızdan emin olmak. Burada yazanlar sert olabilir. Uzun süre düşündükten sonra, güvenlik için uygun gördüğüm şeyler bunlar. Yasa değiller. Ama emin olabilirsin ki bunların hepsi, senin güvenliğin için yazdığım şeyler. İnsanları nasıl sarhoş edeceğimi biliyorum ve herhangi bir plan yapılacaksa, [[Alkollü Plan Kuralları]] ve [[Sarhoş Etme Checklist]]'na göre yapılır.  
+>    Aklı başında, normal bir insanın yapacağının, muhtemelen, yüzlerce katı kadar araştırma, okuma ve sorgulama yaptım içki konusunda. Bunları yapmamın sebebi, sizin, sarhoş olmanız durumunda, güvende olacağınızdan emin olmak. Burada yazanlar sert olabilir. Uzun süre düşündükten sonra, güvenlik için uygun gördüğüm şeyler bunlar. Yasa değiller. Ama emin olabilirsin ki bunların hepsi, senin güvenliğin için yazdığım şeyler. İnsanları nasıl sarhoş edeceğimi biliyorum ve herhangi bir plan yapılacaksa, [[Alkollu Plan Kurallari]] ve [[Sarhoş Etme Checklist]]'na göre yapılır.  
 
 2. Eğer içecekseniz, bana haber ver.  
 

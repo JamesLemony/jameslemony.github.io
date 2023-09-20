@@ -1,3 +1,6 @@
+---  
+title: Ömer Tier List  
+---  
 ## Güvendiklerim  
 Kerem  
 

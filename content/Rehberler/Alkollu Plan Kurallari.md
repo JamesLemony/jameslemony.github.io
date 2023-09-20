@@ -1,3 +1,8 @@
+---  
+title: Alkollü Plan Kuralları  
+aliases:  
+  - Alkollü Plan Kuralları  
+---  
 Bu kurallar, benim, değer verdiğim insanlar ile alkollü bir plan yaparken kullanacağım kurallar. Onlar, bu kurallara uymak zorunda değiller. Fakat ben, onların güvenliğine çok önem verdiğim için bu kurallar oldukça önemli şeyler.  
 
 1. Alkolün alınacağı yer, oldukça güvenli bir yer olmalı. Tercihen, birinin evi olmalı.  
@@ -33,4 +38,4 @@ Bu kurallar, benim, değer verdiğim insanlar ile alkollü bir plan yaparken kul
 > [!INFO] Bilgi  
 > Bana güveniyor olmanız oldukça önemli. Beni düzgünce tanıyan herkes, güvenliğin benim için en önemli şey olduğunu bilir. Ben, sizin düşmeniz, bir yerinizi kesmeniz gibi durumlar için önemler alıyorum. Bunun yanında, yanlışlıkla birini aramanız, ortamda söylenmemesi gereken bir şey söylemeniz, atılmaması gereken fotoğrafları başkalarına atmanız gibi konularda da çok sıkı bir şekilde önlem alıyorum. Bu önlemlerin işe yaraması için bana “yetki vermeniz” oldukça önemli. Eğer bir şeyi yapmamanızı söylüyorsam, bu, sizin kötülüğünüz için değil de sizin güvenliğiniz içindir.  
 
-Daha fazla bilgi için [[Sarhoş Etme Checklist]]'i' ve [[Ömer'in Rehberi]]'ni okuyabilirsiniz.  
+Daha fazla bilgi için [[Sarhoş Etme Checklist]]'i' ve [[Omerin Rehberi]]'ni okuyabilirsiniz.  

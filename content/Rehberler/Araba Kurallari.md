@@ -1,3 +1,8 @@
+---  
+title: Araba Kuralları  
+aliases:  
+  - Araba Kuralları  
+---  
 1. Araca biner binmez emniyet kemerinizi takın. Herkesin emniyet kemerleri takılı olamadan araç hareket etmez.  
 
 > [!EXAMPLE] Kanunlar  

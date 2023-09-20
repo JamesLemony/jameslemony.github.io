@@ -2,7 +2,7 @@
 Puanı alabilmek için gerekli minimum Tier: Arkadaşlarım  
 
 > [!INFO] Bilgi  
-> Yanımda her uyunduğunda, 90 puan almıyorsunuz. Genellikle, uykunuzun ciddi bir zamanda olması gerekiyor. Yani uyumanızın bir şeyi kaçırmanıza sebep olacağı ya da bir şeyin doğru şekilde gerçekleşmesi için benim uyanık kalmam gerekmesine ihtiyacınız var buradan puan alabilmek için. Başka şekillerde de alabilirsiniz puan, benim keyfime kalmış. Bunların dışında, uyurken, bana yaslanarak uyuman da, bazı durumlarda, bu puanı almana yardımcı olabilir. Uykunun neden benim için bu kadar olduğunu anlamak için [[Ömer'in Rehberi#Bölüm 2 Yaygın Anksiyete Bozukluğu GAD]] kısmına bakabilirsin.  
+> Yanımda her uyunduğunda, 90 puan almıyorsunuz. Genellikle, uykunuzun ciddi bir zamanda olması gerekiyor. Yani uyumanızın bir şeyi kaçırmanıza sebep olacağı ya da bir şeyin doğru şekilde gerçekleşmesi için benim uyanık kalmam gerekmesine ihtiyacınız var buradan puan alabilmek için. Başka şekillerde de alabilirsiniz puan, benim keyfime kalmış. Bunların dışında, uyurken, bana yaslanarak uyuman da, bazı durumlarda, bu puanı almana yardımcı olabilir. Uykunun neden benim için bu kadar olduğunu anlamak için [[Omerin Rehberi#Bölüm 2 Yaygın Anksiyete Bozukluğu GAD]] kısmına bakabilirsin.  
 
 > [!EXAMPLE] Örnek olay  
 > Kerem’in, Çorlu’dan geri dönerken uyuması.  
@@ -17,7 +17,7 @@ Puanı alabilmek için gerekli minimum Tier: Arkadaşlarım
 Puanı alabilmek için gerekli minimum Tier: Dostlarım  
 
 > [!INFO] Bilgi  
-> Buradan puan almak için her zaman zil zurna sarhoş olmanıza gerek yok ama olmanız, puan almanızı çok daha olası hale getiriyor. Puan alabilmek için güvenliğinizin ben tarafından sağlanıyor olması gerekiyor. “Kafam gidince telefonumu al.” gibi bir şey de olabilir. Bir şeylerden sorumlu kişi olmam gerekiyor yani. Alternatif olarak, benim olmadığım ortamda, kafanız çok gittikten sonra, toplamam için beni çağırabilirsiniz. Bunların dışında, tabii ki, her anlamda, bana güvendiğinizi bilmem gerekiyor. Daha detaylı bilgi için [[Ömer'in Rehberi#Bölüm 4 Alkol]] kısmına bakabilirsin.  
+> Buradan puan almak için her zaman zil zurna sarhoş olmanıza gerek yok ama olmanız, puan almanızı çok daha olası hale getiriyor. Puan alabilmek için güvenliğinizin ben tarafından sağlanıyor olması gerekiyor. “Kafam gidince telefonumu al.” gibi bir şey de olabilir. Bir şeylerden sorumlu kişi olmam gerekiyor yani. Alternatif olarak, benim olmadığım ortamda, kafanız çok gittikten sonra, toplamam için beni çağırabilirsiniz. Bunların dışında, tabii ki, her anlamda, bana güvendiğinizi bilmem gerekiyor. Daha detaylı bilgi için [[Omerin Rehberi#Bölüm 4 Alkol]] kısmına bakabilirsin.  
 
 > [!EXAMPLE] Örnek olay  
 > Çeşitli sebeplerden ötürü, bunun için örnek olay vermeyeceğim.  
