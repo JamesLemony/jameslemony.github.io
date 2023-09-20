@@ -21,5 +21,3 @@ Naz
 
 
 **Edited by Abdülkadir at 2023-03-15**  
-
-**Edited by Ömer (Abdülkadir’in listesini değiştirdim.) 2023-03-15 tarihinde, Abdülkadir tarafından güncellendi.**  
