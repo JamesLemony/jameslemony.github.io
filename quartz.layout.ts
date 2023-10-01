@@ -8,7 +8,7 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       "Mail": "mailto:bilimomer@hotmail.com",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      "Discord Daveti": "https://discord.com/invite/SJ5wCqzxZj",
     },
   }),
 }
