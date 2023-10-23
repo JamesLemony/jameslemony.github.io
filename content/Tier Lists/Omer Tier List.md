@@ -14,7 +14,7 @@ Harun
 
 
 ## Minimum Umurumda Olanlar  
-Abdülkadir, Aylin, Mert  
+Aylin, Mert, Abdülkadir  
 
 ## Sokaktan Geçenlerin Bir Tık Üstü  
 Sercan Hoca, Ayça Hoca  
