@@ -1,5 +1,5 @@
 ---  
-    title: Hoşgeldiniz!  
+title: Hoşgeldiniz!  
 ---  
 Websiteme hoşgeldiniz. Aşağıdaki linke tıklayarak, ders notlarıma ulaşabilirsiniz.  
 
