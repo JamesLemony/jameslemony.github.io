@@ -10,7 +10,7 @@ Zamirler, cümle içerinde ismin yerine geçen ve yerini tutan kelimelerdir. Zam
 
 # Sıfat  
 ##### Sıfat Nedir?  
-Sıfatlar, isimler ile birlikte kullanılan, isimlerin özelliklerini belirtsen sözcüklerdir.  
+Sıfatlar, isimler ile birlikte kullanılan, isimlerin özelliklerini belirten sözcüklerdir.  
 
 ### Niteleme Sıfatları  
 
