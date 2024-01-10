@@ -1,6 +1,8 @@
 ## Comparatives  
 Comperatives, ya da üstünlük sıfatları, sıfatların sonuna "-er" eklenerek ya da öncesinde "more" kullanırak yapılır. Comparative yaptıktan sonra, genelde, karşılaştırma yaptığımız şeyi de söyleriz.  
 
+Anlamsal olarak, iki şeyin karşılaştırmasını yapan yapıdır. "O, bundan daha iyidir." gibi anlamlar üretmek için kullanılır.  
+
 | Base Form | Comparative Form |  Superlative Form  |  
 |:---------:|:----------------:|:------------------:|  
 |   Rich    |      Richer      |    The richest     |  
@@ -78,6 +80,8 @@ The deeper our sorrows, the lauder we will sing.
 
 ## Superlatives  
 "Enlik Sıfatları" diye çevirebiliriz. Comparative kalıbındaki gibi, 2 heceden daha kıza sözcüklere "-est" eki geliyor. 2 heceden uzunsa, kelime, başına "most" sözcüğünü alıyor. Buradaki unutulmaması gereken şey, Superlative yaptığımızda, sıfatlarımız, başlarına "**the**" alır.  
+
+Anlamsal olarak bir şeyin "en" olduğunu anlatmak için kullanılır. "En iyi/kötü/hızlı" gibi anlamlar vermek için kullanılır.  
 
 The Weakest = En Güçsüz  
 The Smallest = En Küçük  

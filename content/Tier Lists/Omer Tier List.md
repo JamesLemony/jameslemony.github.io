@@ -14,13 +14,13 @@ Harun
 
 
 ## Minimum Umurumda Olanlar  
-Aylin, Mert, Abdülkadir  
+Mert, Aylin, Abdülkadir  
 
 ## Sokaktan Geçenlerin Bir Tık Üstü  
 Sercan Hoca, Ayça Hoca  
 
 ## Sokaktan Geçenler  
-Zehra Abla  
+
 
 # Tier List Nedir?  
 1. Tier List, benim, hayatımdaki insanların takibini tutmak için kullandığım, onların, benim hayatımdaki yerini gösteren, özel bir listedir.  
