@@ -3,7 +3,7 @@ title: Hoşgeldiniz!
 ---  
 Websiteme hoşgeldiniz. Aşağıdaki linke tıklayarak, ders notlarıma ulaşabilirsiniz.  
 
-[[Teaching/Teaching]]  
+[[Teaching]]  
 
 Eğer bana ulaşmak istiyorsanız, aşağıdaki bağlantıları kullanabilirsiniz:  
 
