@@ -50,7 +50,7 @@
 
 [[Countable and Uncountable Nouns]]  
 # Causatives  
-[[Causatives YAZILIYOR 263]]  
+[[Causatives DUZENLEME BEKLIYOR]]  
 
 # Determiners  
 [[Articles]]  
