@@ -4,8 +4,34 @@ Countable Nouns, başka bir deyişle "sayılabilir" isimler, İngilizcedeki teme
 #### Singular Nouns  
 Tekil isimler, tek olan, sayılabilir bir isimden bahsederken kullanılır. "Baby, balloon, book, toy" gibi isimler, Singular Noun örnekleri olarak verilebilir.  
 
+Bu isimler, tekil oldukları için, kullanılırken başlarına genellikle "a/an" alırlar. Bu durumun da istisnaları vardır ve [[Articles]] konusunda detaylı olarak işlenmiştir.  
+
+> [!EXAMPLE]  
+> There is a pineapple.  
+> She is not a child.  
+> We saw a baby horse!  
+> It wasn't an easy decision.  
+> It's an easy job, like I expected.  
+> He has been here about an hour.  
+> It is a little speech that I have written for him.  
+> A sudden gust of wind circled them and whispered words in her mind.  
+> She had an interesting perspective, and she made him think about things differently.  
+> If you have an unwavering commitment to an idea that all things will be good all the time, then that is irrational.  
+
 #### Plural Nouns  
 Çoğul isimler, birden fazla, sayılabilen isimden bahsederken kullanılır. "Babies, balloons, books, toys" gibi isimler, Plural Nouns örnekleri olarak verilebilir.  
+
+> [!EXAMPLE]  
+> There are phones on the table.  
+> The ducks are swimming slowly.  
+> The cameras were flashing.  
+> Those TVs are looking beautiful.  
+> Do not run with your slippers. It is dangerous.  
+> My batteries are low. I have to charge them.  
+> You can usually find this monitor at Amazon and Toys R Us.  
+> You can purchase colorful lanyards that fit the theme of your party.  
+> Collecting antique toys is rewarding, enriching and also great fun.  
+> Our fall arrest lanyards have a built-in shock absorber to reduce the impact forces during a fall.  
 
 ##### Tekil ve Çoğul Halleri Aynı Olan İsimler  
 İngilizcede bazı isimler, tekil ve çoğul olabilmelerine rağmen, aynı şekilde yazılarak, iki şekilde de kullanılabilirler. Bu kelimelerden en bilineni "fish" kelimesidir. "Fish", hem tekil olarak hem de çoğul olarak kullanılabilir.  
@@ -59,6 +85,11 @@ Bazı isimler, İngilizcede çoğul halde bulunsa da cümle içerisinde tekil ş
 > Teachers' room.  
 > Your parents' house.  
 > Europeans' way of life.  
+> The friends' vacation plans are well organized.  
+> Several cities' teams attract fans.  
+> Jesus' teachings are really hard to grasp.  
+> Brussels’ cathedrals attract hundreds of thousands of visitors every year.  
+> The Jeffersons’ yard is always beautifully landscaped.  
 
 ##### Kişiye Ait Yerlerin Kısaltılması  
 İngilizcede, bazı durumlarda, kişiye ait olan yerler, sadece aitlik eki ile söylenebilir ve anlamda herhangi bir değişiklik olmaz.  

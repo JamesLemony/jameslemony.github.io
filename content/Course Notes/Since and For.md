@@ -14,17 +14,21 @@ Since, geçmişte, belirli bir zamana referans gösterir. "-den beri" anlamı ta
 
 "Ne zamandan beri?" sorusunu, İngilizcede, "Since When?" ile yapıyoruz.  
 
-I am a vegetarian. Since when?  
-You told me to do it. Since when did you start listening to me  
-Since when it is OK to cheat?  
+> [!EXAMPLE]  
+> I am a vegetarian. Since when?  
+> You told me to do it. Since when did you start listening to me?  
+> Since when it is OK to cheat?  
+> Since when Serdar is having these awful dreams and why?  
+> Since when she is able to run so fast?  
 
 ### Since as a Conjunction  
 
-We have played better since you joined the team.  
-He has had two jobs since he graduated.  
-I have wanted to be a pilot since I was a child.  
-He hasn't ridden a bike since he was a boy.  
-It has been over 10 years since I last visited Europe.  
+> [!EXAMPLE]  
+> We have played better since you joined the team.  
+> He has had two jobs since he graduated.  
+> I have wanted to be a pilot since I was a child.  
+> He hasn't ridden a bike since he was a boy.  
+> It has been over 10 years since I last visited Europe.  
 
 ## For  
 For, eylemin ne kadar süredir gerçekleştiğini anlatmak için kullanılır. Genelde, Türkçeye çevirilerken, cümlelerin içine katılmaz. Katılırsa da "süreyle" diye çevrilebilir.  
