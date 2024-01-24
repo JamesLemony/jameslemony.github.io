@@ -1,5 +1,5 @@
 import { QuartzTransformerPlugin } from "../types"
-import { Root, Html, Image, BlockContent, DefinitionContent, Paragraph, Code } from "mdast"
+import { Root, Html, BlockContent, DefinitionContent, Paragraph, Code } from "mdast"
 import { Element, Literal, Root as HtmlRoot } from "hast"
 import { ReplaceFunction, findAndReplace as mdastFindReplace } from "mdast-util-find-and-replace"
 import { slug as slugAnchor } from "github-slugger"
@@ -23,6 +23,7 @@ export interface Options {
   callouts: boolean
   mermaid: boolean
   parseTags: boolean
+  parseArrows: boolean
   parseBlockReferences: boolean
   enableInHtmlEmbed: boolean
   enableYouTubeEmbed: boolean
@@ -36,6 +37,7 @@ const defaultOptions: Options = {
   callouts: true,
   mermaid: true,
   parseTags: true,
+  parseArrows: true,
   parseBlockReferences: true,
   enableInHtmlEmbed: false,
   enableYouTubeEmbed: true,
@@ -111,6 +113,8 @@ function canonicalizeCallout(calloutName: string): keyof typeof callouts {
 
 export const externalLinkRegex = /^https?:\/\//i
 
+export const arrowRegex = new RegExp(/-{1,2}>/, "g")
+
 // !?               -> optional embedding
 // \[\[             -> open brace
 // ([^\[\]\|\#]+)   -> one or more non-special characters ([,],|, or #) (name)
@@ -121,7 +125,7 @@ export const wikilinkRegex = new RegExp(
   "g",
 )
 const highlightRegex = new RegExp(/==([^=]+)==/, "g")
-const commentRegex = new RegExp(/%%(.+)%%/, "g")
+const commentRegex = new RegExp(/%%[\s\S]*?%%/, "g")
 // from https://github.com/escwxyz/remark-obsidian-callout/blob/main/src/index.ts
 const calloutRegex = new RegExp(/^\[\!(\w+)\]([+-]?)/)
 const calloutLineRegex = new RegExp(/^> *\[\!\w+\][+-]?.*$/, "gm")
@@ -147,6 +151,15 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options> 
   return {
     name: "ObsidianFlavoredMarkdown",
     textTransform(_ctx, src) {
+      // do comments at text level
+      if (opts.comments) {
+        if (src instanceof Buffer) {
+          src = src.toString()
+        }
+
+        src = src.replace(commentRegex, "")
+      }
+
       // pre-transform blockquotes
       if (opts.callouts) {
         if (src instanceof Buffer) {
@@ -282,13 +295,13 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options> 
             ])
           }
 
-          if (opts.comments) {
+          if (opts.parseArrows) {
             replacements.push([
-              commentRegex,
+              arrowRegex,
               (_value: string, ..._capture: string[]) => {
                 return {
-                  type: "text",
-                  value: "",
+                  type: "html",
+                  value: `<span>&rarr;</span>`,
                 }
               },
             ])
