@@ -1,0 +1,6 @@
+- Öğrencileri iki gruba böl. Grupların benzer seviyelerde olduğundan emin ol.  
+- Onların seviyesinden bir seviye yukarıda bir kelime listesi aç.  
+- Zaman belirle. 2 dakika yeterli gibi.  
+- Kelime listesinden, onların bilemeyeceği bir kelime sor.  
+- Kelimenin anlamını bulacaklar. Bu kelimeyi, düzgün bir cümle içerisinde kullanacaklar ve bana anlamını anlatacaklar.  
+- Her kelime için 20 puan ver. Her açıklayamadıkları şey için puan kır.  
