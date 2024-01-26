@@ -1,9 +1,3 @@
-# I Have Never  
-
-### Instruction  
-
-Öğrenci sayısı kadar boş kağıt hazırla. Onlara, kırmızı kalem ile “I HAVE NEVER” yazmalarını söyle. Siyah kalem ile de kağıdın diğer tarafına “I HAVE” yazmalarını söyle. Aşağıdaki soruları sor.  
-
 ### Genel sorular  
 
 Never have I ever broken a bone  
