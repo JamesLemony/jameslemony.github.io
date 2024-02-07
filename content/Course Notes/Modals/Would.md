@@ -54,7 +54,7 @@
 > It would be really awsome if we can make it but I am really tired and I cannot climb anymore.  
 
 ### Reported (Indirect) Speech'de Would  
-You will have nune puppies soon. *Direct Speech*  
+You will have nine puppies soon. *Direct Speech*  
 The vet said I would have five puppies. *Reported Speech*  
 
 I will take Goerge with me to the hunting trip. *Direct Speech*  

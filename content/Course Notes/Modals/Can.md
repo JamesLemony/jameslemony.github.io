@@ -1,4 +1,4 @@
-Türkçede "-ebilmek" alamı verir. Modal olarak kullanılır. Kullanımı oldukça basittir.  
+Türkçede "-ebilmek" (yapabilmek, edebilmek, uçabilmek, koşabilmek) alamı verir. Modal olarak kullanılır. Kullanımı oldukça basittir.  
 
 **Olumlu cümle yapısı:**  
 
@@ -32,21 +32,31 @@ Can I have a coke?
 > I can go to İstanbul tomorrow.  
 > She can miss her train.  
 > Although I want to finish my homework now, I can do it tomorrow when I get up.  
+> Tomorrow, I can meet you for lunch if my schedule allows.  
+> Once we finish the renovations, we can move into our new house next month.  
+> After completing my degree, I can pursue a career in marketing.  
+> With enough practice, you can become fluent in Spanish by the end of the year.  
+> If we start saving now, we can afford to go on a trip to Europe next summer.  
+> Once the weather clears up, we can go hiking in the mountains next weekend.  
+> With proper training, he can qualify for the marathon next year.  
+> If I manage my time effectively, I can finish writing the book by the end of this year.  
 
 ### Can'in Bazı Diğer Kullanımlar  
 Can, izin istemek için kullanılabilir.  
 
-Can you give me some money to start a business, dad?  
-Can you please give me a break?  
-Can I share this moment with you? I want you to be as happy as I am.  
-You can enroll in that language course if you want it so badly. I will pay for it.  
+> [!EXAMPLE]  
+> Can you give me some money to start a business, dad?  
+> Can you please give me a break?  
+> Can I share this moment with you? I want you to be as happy as I am.  
+> You can enroll in that language course if you want it so badly. I will pay for it.  
 
 Can, gerçekleşme ihtimali yüksek olan cümleler için kullanılabilir (Can as a deduction modal).  
 
-Consuming fructose, glucose, and sucrose can have varying effects on how well your mind operates, according to research.  
-Disasters such as hurricanes, earthquakes, and flood can claim lives, destroy houses or whole communities, and cause serious physical and psychological injuries.  
-Too much sugar consumption can increase your risk of developing cardiovascular disease, make getting diabetes more likely, and even help cancer thrive, studies have shown.  
-You can't make a different and change people overnight. You have to be patient and careful while implementing ideas into people's minds.  
+> [!EXAMPLE]  
+> Consuming fructose, glucose, and sucrose can have varying effects on how well your mind operates, according to research.  
+> Disasters such as hurricanes, earthquakes, and flood can claim lives, destroy houses or whole communities, and cause serious physical and psychological injuries.  
+> Too much sugar consumption can increase your risk of developing cardiovascular disease, make getting diabetes more likely, and even help cancer thrive, studies have shown.  
+> You can't make a different and change people overnight. You have to be patient and careful while implementing ideas into people's minds.  
 
 > [!EXAMPLE]  
 > I can play football.  
