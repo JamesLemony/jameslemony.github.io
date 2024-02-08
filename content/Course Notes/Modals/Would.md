@@ -54,11 +54,29 @@
 > It would be really awsome if we can make it but I am really tired and I cannot climb anymore.  
 
 ### Reported (Indirect) Speech'de Would  
-You will have nine puppies soon. *Direct Speech*  
-The vet said I would have five puppies. *Reported Speech*  
+Would, Reported Speech'de, will'in past hali olarak kullanılır.  
 
-I will take Goerge with me to the hunting trip. *Direct Speech*  
-He said that he would take George with him to the hunting trip. *Indirect Speech*  
+> [!EXAMPLE]  
+> You will have nine puppies soon. *Direct Speech*  
+> The vet said I would have five puppies. *Reported Speech*  
+>  
+> I will take Goerge with me to the hunting trip. *Direct Speech*  
+> He said that he would take George with him to the hunting trip. *Indirect Speech*  
+>  
+> She will attend the conference next week. *Direct Speech*  
+> She said that she would attend the conference the following week. *Reported Speech*  
+>  
+> They will visit their grandparents during the summer vacation. *Direct Speech*  
+> They mentioned that they would visit their grandparents during the summer vacation. *Reported Speech*  
+>  
+> We will complete the project by the end of the month. *Direct Speech*  
+> We mentioned that we would complete the project by the end of the month. *Reported Speech*  
+>  
+> He will buy a new car next year. *Direct Speech*  
+> He said that he would buy a new car the following year. *Reported Speech*  
+>  
+> I will send you the report as soon as it's ready. *Direct Speech*  
+> I promised that I would send you the report as soon as it was ready. *Reported Speech*  
 
 ### If Clause'larda Would  
 
