@@ -13,6 +13,7 @@ const config: QuartzConfig = {
     ignorePatterns: ["private", "templates"],
     defaultDateType: "created",
     theme: {
+      cdnCaching: true,
       typography: {
         header: "Righteous",
         body: "Roboto",
