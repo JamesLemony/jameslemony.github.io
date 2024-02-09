@@ -9,6 +9,7 @@ const config: QuartzConfig = {
     analytics: {
       provider: "plausible",
     },
+    locale: "en-US",
     baseUrl: "lemony.in",
     ignorePatterns: ["private", "templates"],
     defaultDateType: "created",
