@@ -49,6 +49,7 @@
 [[Relative Pronouns]]  
 
 [[Countable and Uncountable Nouns]]  
+
 # Causatives  
 [[Causatives DUZENLEME BEKLIYOR]]  
 
@@ -76,10 +77,3 @@
 [[Comparatives and Superlatives]]  
 [[Reduction KULLANMA - ÇOK KARIŞIK]]  
 [[Stative & Dynamic Verbs]]  
-
-### Activities  
-[[Never Have I Ever Questions]]  
-[[Bamboozle]]  
-
-### Speaking  
-[[Speaking]]  

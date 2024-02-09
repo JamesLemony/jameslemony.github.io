@@ -45,10 +45,30 @@ Object + Aux Verbs + Be + V3 (+ Subject)
 > That document needs to be found  
 > Her writing should be fixed.  
 > The car can be repaired by the mechanic.  
+> The car can be driven by anyone with a valid license.  
+> This document must be signed before the deadline.  
+> The package should be delivered by tomorrow afternoon.  
+> The repairs could be completed by the end of the week.  
+> The report might be submitted electronically instead of in person.  
+> The assignment ought to be completed before the next class.  
+> The cake has to be baked at 350 degrees Fahrenheit for 30 minutes.  
+> The letter needs to be typed and printed before it can be sent out.  
+> The book used to be written by hand before the invention of the printing press.  
+> The keys have to be returned to the front desk before checking out of the hotel.  
 
 > [!INFO] Nesnesi olmayan cümleler ve nesne alamayan fiiler (geçişsiz) ile Passive cümle yapılmaz.  
 >  
 > My brother lies a lot.  
+> The sun shines in the sky.  
+> Birds chirp in the early morning.  
+> The wind rustles through the trees.  
+> Children laugh as they play.  
+> Waves crash against the rocks.  
+> Leaves rustle in the breeze.  
+> Raindrops fall on the roof.  
+> The clock ticks on the wall.  
+> Flowers bloom in the garden.  
+> Stars twinkle in the night sky.  
 > One of our sheep died yesterday due to some kind of poisoning.  
 > They had gone to the funurel to say goodbye to their uncle.  
 > The scouts team will arrive in a moment.  

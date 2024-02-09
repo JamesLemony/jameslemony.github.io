@@ -66,6 +66,16 @@ More Expensive = Daha Pahalı
 > This pizza is tastier than the one we had last week.  
 > The new coffee shop is much cozier than the old one.  
 > Her presentation was more engaging than the previous speaker's.  
+> Mount Kilimanjaro is taller than any other mountain in Africa, standing at an impressive 5,895 meters above sea level.  
+> The Pacific Ocean is wider than any other ocean, covering more than 165 million square kilometers.  
+> The Sahara Desert is hotter than any other desert, with temperatures soaring well above 50 degrees Celsius.  
+> The cheetah is faster than any other land animal, capable of reaching speeds up to 70 miles per hour in short bursts.  
+> The blue whale is larger than any other animal that has ever existed, with adults reaching lengths of up to 100 feet and weights of over 200 tons.  
+> The Great Wall of China is longer than any other wall in the world, stretching over 13,000 miles across northern China.  
+> The Sahara Desert is drier than any other desert on Earth, receiving less than three inches of rainfall annually in some areas.  
+> The Mariana Trench is deeper than any other ocean trench, plunging to depths of over 36,000 feet below sea level.  
+> The Amazon Rainforest is richer in biodiversity than any other ecosystem on the planet, hosting millions of species of plants and animals.  
+> The Grand Canyon is wider than any other canyon in the world, spanning up to 18 miles at its widest point and reaching depths of over a mile.  
 
 Türkçedeki "gitgide" yapısını, İngilizcede 2 kere aynı Comparative'i yaparak veriyoruz.  
 
@@ -124,3 +134,13 @@ The Most Expensive = En Pahalı
 > She is the most talented musician in the orchestra.  
 > The Eiffel Tower is one of the most iconic landmarks globally.  
 > That was the most memorable vacation I've ever taken.  
+> Mount Everest is the highest peak on Earth, towering over the Himalayan range at 29,032 feet above sea level.  
+> The Great Barrier Reef off the coast of Australia is the largest coral reef system, stretching over 2,300 kilometers and boasting rich biodiversity.  
+> The Amazon Rainforest in South America is the largest tropical rainforest, home to an incredible variety of plant and animal species.  
+> The Nile River in Africa is the longest river, spanning approximately 6,650 kilometers and playing a vital role in supporting civilizations.  
+> The Burj Khalifa in Dubai is the tallest building in the world, standing at a height of 828 meters and symbolizing human achievement.  
+> William Shakespeare is widely regarded as the greatest playwright, his works admired for their timeless themes and linguistic brilliance.  
+> The Louvre Museum in Paris is the largest art museum, housing a vast collection of priceless artifacts from various periods.  
+> Lake Geneva in Switzerland is the largest lake in Central Europe, surrounded by picturesque landscapes and charming towns.  
+> The Grand Canyon in Arizona is the deepest canyon in North America, formed by the Colorado River over millions of years.  
+> Silicon Valley in California is the epicenter of the global tech industry, home to pioneering companies shaping the future with technological innovations.  
