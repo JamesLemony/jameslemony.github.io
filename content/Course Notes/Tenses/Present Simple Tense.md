@@ -48,15 +48,15 @@ Does + He/She/It + V1?
 > [!NOTE] İngilizcede "be" fiili, ana fiil olduğu cümlelerde, aslında yardımcı fiil olmamasına rağmen, yardımcı fiil gibi işlem görür ve olumsuzluk ekini (not) kendine alır. Cümle soru olduğu zaman da kendi başa gelir.  
 >  
 > I am a student.  
-> ~~Do I be a student?~~🚫  
+> ~~Do I be a student?~~ 🚫  
 > Am I a student?  
 >  
 > A horse is an animal.  
-> ~~Does a horse be an animal?~~🚫  
+> ~~Does a horse be an animal?~~ 🚫  
 > Is a horse an animal?  
 >  
 > That chair is not white.  
-> ~~Does that chair be not white?~~🚫  
+> ~~Does that chair be not white?~~ 🚫  
 > Is that chair white?  
 >  
 > Oliver is a teacher at the local school.  
