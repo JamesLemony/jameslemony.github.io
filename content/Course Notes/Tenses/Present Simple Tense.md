@@ -37,7 +37,7 @@ Does + He/She/It + V1?
 > He does help.  
 > We do drink alcohol.  
 
-> [!INFO] Wh soru kelimelerinden birisi ile soru sormak istiyorsak, Wh soru kelimesi cümlenin başına gelir ve cümlenin geri kalanı olduğu gibi yazılır.  
+> [!INFO] Wh soru kelimelerinden birisi ile soru sormak istiyorsak, Wh soru kelimesi cümlenin başına gelir ve cümlenin geri kalanı olduğu gibi (soru yapısı ile) yazılır.  
 >  
 > Where do you work?  
 > What do you do?  

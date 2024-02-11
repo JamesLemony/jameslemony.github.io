@@ -34,3 +34,13 @@ Will + I/You/We/They/He/She/It + have been+ Ving
 > He will have been repairing the car. *(Arabayı tamir etmekte/ediyor olacak.)*  
 > She will have been staying with us since Tuesday. *(Salıdan beri bizle kalmakta/kalıyor olacak.)*  
 > It will have been raining in London. *(Londra'da yağmıur yağmakta/yağıyor olacak.)*  
+> By the time I finish my degree, I will have been studying for six years.  
+> They will have been building the new bridge for over a decade when it finally opens.  
+> By next month, she will have been working at the company for ten years.  
+> By the time he retires, he will have been teaching English for 30 years.  
+> When they arrive at the party, they will have been driving for five hours straight.  
+> By the end of the year, we will have been living in this house for ten years.  
+> In five years' time, they will have been saving for their dream vacation for a decade.  
+> By next summer, I will have been practicing yoga for five years.  
+> By the time the project is completed, they will have been working on it for two years.  
+> In a few months, she will have been running her own business for a decade.  
