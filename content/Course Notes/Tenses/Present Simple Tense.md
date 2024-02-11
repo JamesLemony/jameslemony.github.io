@@ -44,6 +44,32 @@ Does + He/She/It + V1?
 > How much do you love her?  
 > What can you do?  
 
+### Be Fiili ile Yapılan Cümleler  
+> [!NOTE] İngilizcede "be" fiili, ana fiil olduğu cümlelerde, aslında yardımcı fiil olmamasına rağmen, yardımcı fiil gibi işlem görür ve olumsuzluk ekini (not) kendine alır. Cümle soru olduğu zaman da kendi başa gelir.  
+>  
+> I am a student.  
+> ~~Do I be a student?~~🚫  
+> Am I a student?  
+>  
+> A horse is an animal.  
+> ~~Does a horse be an animal?~~🚫  
+> Is a horse an animal?  
+>  
+> That chair is not white.  
+> ~~Does that chair be not white?~~🚫  
+> Is that chair white?  
+>  
+> Oliver is a teacher at the local school.  
+> Emily is a doctor who works at the hospital.  
+> Harry is an artist who paints beautiful landscapes.  
+> Sophie is a dog that barks loudly at strangers.  
+> William and Charlotte are a family that loves spending time together.  
+> Is Olivia a chef in the local restaurant?  
+> Is Charlotte a vegetarian, or does she eat meat?  
+> Are they siblings who live in the same neighborhood?  
+> The flowers in the garden aren't roses. They are lilacs.  
+> The cats aren't pets that like sitting on someone's laps.  
+
 > [!EXAMPLE]  
 > He lives in London.  
 > I love speaking English.  
