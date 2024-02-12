@@ -53,6 +53,10 @@ export default {
     tableOfContents: {
       title: "Inhoudsopgave",
     },
+    contentMeta: {
+      readingTime: ({ minutes }) =>
+        minutes === 1 ? "1 minuut leestijd" : `${minutes} minuten leestijd`,
+    },
   },
   pages: {
     rss: {
