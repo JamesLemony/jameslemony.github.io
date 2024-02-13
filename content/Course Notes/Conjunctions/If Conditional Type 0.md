@@ -6,7 +6,7 @@ If + Present Simple Tense + , + Present Simple Tense
 
 Present Simple Tense + if + Present Simple Tense  
 
-Burada unutulmaması gereken şey, if bağlacının hem başa hem de sona gelebilmesidir.  
+Burada unutulmaması gereken şey, if bağlacının hem başa hem de ortaya gelebilmesidir.  
 
 > [!EXAMPLE]  
 > If the food is out of date, I don’t eat it.  

@@ -16,8 +16,18 @@ Stative Verbs, ya da diğer adları ile "Non-Action Verbs", haraket ya da eylem 
 > [!NOTE] Yıldızlı fiiller, eğer istek ile gerçekleşen eylemleri belirtiyorsa, continuous alabilir.  
 > This soup tastes horrible.  
 > I am tasting the soup.  
+> This perfume smells wonderful.  
+> I am smelling the flowers in the garden.  
+> The music sounds beautiful.  
+> She is listening to the music.  
+> The cake feels moist and fluffy.  
+> He is feeling the fabric of the shirt.  
+> The painting looks impressive.  
+> They are looking at the painting.  
+> The coffee tastes bitter.  
+> I am tasting the coffee to check its flavor.  
 
-> [!NOTE] Diğer bazı filler de bazı durumlarda -ing alabilir. Bu fillere daha fazla örnek, aşağıda verildi.  
+> [!NOTE] Diğer bazı filler de bazı durumlarda -ing alabilir.  
 > I am having a good time.  
 > I am weighing the apples.  
 > Are you measuring your length at the moment?  
@@ -30,16 +40,16 @@ Stative Verbs, ya da diğer adları ile "Non-Action Verbs", haraket ya da eylem 
 
 > [!EXAMPLE]  
 > Ali owns three cars.  
-> Ali is owning three cars.  
+> ~~Ali is owning three cars.~~ 🚫  
 >  
 > I know what the answer is.  
-> I am knowing what the answer is.  
+> ~~I am knowing what the answer is.~~ 🚫  
 >  
 > Sam likes vegetables.  
-> Sam is liking vegetables.  
+> ~~Sam is liking vegetables.~~ 🚫  
 >  
 > You sound sad.  
-> You are sounding sad.  
+> ~~You are sounding sad.~~ 🚫  
 
 # Dynamic Verbs  
 Dynamic Verbs, Stative fiillerin aksine, bir hareketi, değişimi ya da süreci tanımlarlar. Dynamic Verbs, hem continuous olarak kullanılabilirler hem de simple olarak kullanılabilirler.  
@@ -97,6 +107,5 @@ Bazı fiiller, hem Stative hem de action fiilleri olarak kullanılabilir. Bu kel
 >  
 > Action: Trying food.  
 > Melike and Fırat are tasting different wedding cakes today.  
-
 
 https://test-english.com/grammar-points/a2/stative-vs-dynamic-verbs-or-non-action-vs-action-verbs/  
