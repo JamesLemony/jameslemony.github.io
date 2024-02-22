@@ -13,6 +13,18 @@ Stative Verbs, ya da diğer adları ile "Non-Action Verbs", haraket ya da eylem 
 |                     |            |                    |        Smell*         |  
 |                     |            |                    |         Feel*         |  
 
+> [!EXAMPLE]  
+> Olivia owns a beautiful antique necklace.  
+> Daniel believes in the power of positive thinking.  
+> Chloe understands the importance of hard work.  
+> James appreciates the beauty of nature.  
+> Lily and Oliver love spending time together.  
+> Ethan dislikes crowded places.  
+> Grace and Thomas seem happy with their new home.  
+> Ruby's cat prefers to sleep in the sunlight.  
+> George knows the answer to every question.  
+> Charlotte feels nervous before giving a speech.  
+
 > [!NOTE] Yıldızlı fiiller, eğer istek ile gerçekleşen eylemleri belirtiyorsa, continuous alabilir.  
 > This soup tastes horrible.  
 > I am tasting the soup.  

@@ -16,7 +16,7 @@ const config: QuartzConfig = {
     theme: {
       cdnCaching: true,
       typography: {
-        header: "Righteous",
+        header: "Roboto",
         body: "Roboto",
         code: "IBM Plex Mono",
       },
