@@ -50,11 +50,11 @@ More Expensive = Daha Pahalı
 > [!EXAMPLE]  
 > This house is older than that house.  
 > He is younger than his brother.  
-> My job is much interesting than yours.  
+> My job is much more interesting than yours.  
 > Russia is a lot bigger than Holland.  
 > I am a little more successful than him.  
 > Today is a bit colder than usual.  
-> This car is quite smallar than the others.  
+> This car is quite smallor than the others.  
 > This one is slightly more expensive.  
 > The new smartphone is faster than the old one.  
 > She is taller than her younger sister.  
