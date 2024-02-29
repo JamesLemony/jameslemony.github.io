@@ -54,3 +54,15 @@ Bazı yerlerde, article'lar kullanılmaz.
 > Yıllar, aylar ve günler: 2005 was a great year.  
 > Diller, okul dersleri: He does not speak Spanish. I study biology.  
 > Next ve Last kelimeleri: We went to the theater last week.  
+
+> [!EXAMPLE]  
+> Dogs are loyal animals. *(Hayvanlar kategorisi hakkında genel bir ifade)*  
+> She enjoys reading books. *(Belirli kitaplardan ziyade kitapları genel olarak kastetme)*  
+> They go to school every day. *(Okulu genel anlamda kastetme)*  
+> I want to buy fruit from the market. (*Meyveyi sayılabilen bir isim olarak kastetme)*  
+> He has experience in programming. *(Deneyimi genel anlamda kastetme)*  
+> She speaks fluent French. *(Fransızca dili genel olarak kastetme)*  
+> They live in an apartment. *(Çok sayıda apartmandan birini belirtmek için "an" kullanma)*  
+> He loves to play sports. *(Sporu genel olarak kastetme)*  
+> I need help with my homework. *(Kimin ödevi olduğunu belirtmek için "my" kullanma)*  
+> She drinks coffee every morning. *(Kahveyi genel anlamda kastetme)*  

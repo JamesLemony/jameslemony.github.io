@@ -54,7 +54,7 @@ More Expensive = Daha Pahalı
 > Russia is a lot bigger than Holland.  
 > I am a little more successful than him.  
 > Today is a bit colder than usual.  
-> This car is quite smallor than the others.  
+> This car is quite smaller than the others.  
 > This one is slightly more expensive.  
 > The new smartphone is faster than the old one.  
 > She is taller than her younger sister.  
