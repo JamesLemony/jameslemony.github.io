@@ -20,14 +20,25 @@ Weaker = Daha Güçsüz
 Smaller = Daha Küçük  
 Smarter = Daha Zeki  
 
-Eğer sıfatımızın sonunda zaten "-e" harfi varsa, Comparative yapmak için sadece "-r" ekliyoruz.  
+> [!INFO] Cümle yapısında parantez içerisinde bahsettiğim kısımlar, sıfatımızın uzunluğuna göre belirlenir. Genel olarak uzun sıfatlarda "more + adjective" yapısını kullanırken genel olarak kısa sıfatlarda "adjective-er" kalıbını kullanıyoruz. Bu kullanımlarda kelimelerin uzun ya da kısa olmasına, genel olarak, 2 hece kuralına göre karar veriyouz. Eğer sıfatlarımız 2 heceden daha uzunsa, öncesinde "more" getiriyoruz. Eğer sıfatlarımız 2 heceden kısaysa, -er kalıbını kullanıyoruz.  
+>  
+> Expensive --> More Expensive  
+> Cooler --> Cooler  
+> Different --> More Different  
+> Hot --> Hotter  
+> Suprised --> More Suprised  
+> Tidy --> Tidier  
 
-Large = Büyük  
-Larger = Daha Büyük  
-
-Eğer sıfatlarımız 2 heceden daha uzunsa, öncesinde "more" getiriyoruz.  
-
-More Expensive = Daha Pahalı  
+> [!NOTE] Yazım kuralları.  
+> Eğer sıfatımızın sonunda zaten "-e" harfi varsa, Comparative yapmak için sadece "-r" ekliyoruz.  
+>  
+> Large = Büyük  
+> Larger = Daha Büyük  
+>  
+> Eğer sıfatımızın sonunda zaten "-y" harfi varsa, Comparative yapmak için "-ier" ekliyoruz.  
+>  
+> Lucky = Şanslı  
+> Luckier = Daha Şanslı  
 
 > [!INFO] Bazı sıfatlar, hem başına more alabilir hem de -er takısı alabilir. İkisi aynı anda olamaz tabii.  
 >  
