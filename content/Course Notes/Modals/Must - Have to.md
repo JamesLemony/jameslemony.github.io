@@ -15,7 +15,7 @@
 > You must comprehend every aspect of this machine to be able to operate it properly.  
 
 # Have to  
-"Have to" ile cümle kurduğumuzda, kurduğumuz cümle oldukça ciddi bir zorunluluk bildirir.  
+"Have to" ile cümle kurduğumuzda, kurduğumuz cümle oldukça ciddi bir zorunluluk bildirir. Genelikle, başkasının direttiği ya da yaptırımı olan olaylardan bahsederken kullanılır. "Have to" ile "Must" arasında, bazı durumlarda, net bir çizgi yoktur. Anlatıcının ne anlatmak istediğine göre her ikisi de kullanılabilir.  
 
 > [!NOTE] "Have to" tam olarak bir modal değildir. Cümleler olumsuz olduğunda, olumsuz olan kendini olmaz. Diğer zamanlara göre çekildiğinde, zamanın yardımcı fiili ile çekilir. Aynı zamada kendi de diğer zamanlarda değişebilir.  
 >  
@@ -68,7 +68,7 @@
 > As a responsible citizen, you musn't litter in public spaces.  
 > When operating heavy machinery, you musn't neglect safety protocols.  
 > Babies mustn't be kept anywhere people smoke. Their lungs are far too fragile for that.  
-> You do not have to drink two bottles of mild every day. One will do just fine.  
+> You do not have to drink two bottles of milk every day. One will do just fine.  
 > You mustn't inform the relatives of the patient. He said he didn't want any of them there.  
 > People do not have to look for a new planet to settle on if they treat this one nicely.  
 > You mustn't remove those parcels all by yourself. That will be an invitation to an injury.  
