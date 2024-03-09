@@ -99,6 +99,14 @@ The more you eat, the fatter you get.
 The faster you live, the faster you die.  
 The deeper our sorrows, the lauder we will sing.  
 
+> [!TIP] Bazı durumlarda, Comparative yapısında, "than + karşılaştırdığımız şey" kalıbını kullanmayabiliriz.  
+> I am faster *(than him)*.  
+> This cake is more delicious *(than the other one)*.  
+> He became more confident *(than before)*.  
+> I love the fact that you are more polite now.  
+> Our keyboard here is much more newer.  
+>  
+
 ## Superlatives  
 "Enlik Sıfatları" diye çevirebiliriz. Comparative kalıbındaki gibi, 2 heceden daha kıza sözcüklere "-est" eki geliyor. 2 heceden uzunsa, kelime, başına "most" sözcüğünü alıyor. Buradaki unutulmaması gereken şey, Superlative yaptığımızda, sıfatlarımız, başlarına "**the**" alır.  
 
