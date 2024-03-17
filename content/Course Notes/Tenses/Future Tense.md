@@ -41,7 +41,7 @@ He/She/It + is going to + V1
 >  
 >  
 > It is going to be cold in February.  
-> Are you going to school?  
+> Are you going to go to the school?  
 > He is going to clean the house.  
 > They aren't going to go to swimming.  
 > Well, are you going to let me in?  
