@@ -11,7 +11,13 @@ If you help me, I will finish this by the end of the month.
 
 > [!NOTE] [[If Conditional Type 1]]’ın, [[If Conditional Type 0]]'dan farkı; Type 0’nun genel olarak gerçekleşen şeyler için kullanılırken Type 1’ın belirli durumlarda olacak olan şeyleri anlatmak için kullanılmasıdır.  
 > If you do not use oil, it tastes awful. (Genel anlamda, yağ kullanman gerekiyor.)  
-> If you do not use oil, it will tase awful. (Bu yemeğe yağ koymazsan kötü olur.)  
+> If you do not use oil, it will taste awful. (Bu yemeğe yağ koymazsan kötü olur.)  
+>  
+> If the weather is sunny, I go for a walk. (Hava güneşli olduğunda yürüyüşe çıkarım.)  
+> If the weather is sunnny, I will go for a walk. (Şu anda hava güneşliyse, yürüyüşe çıkacağım.)  
+>  
+> If you study hard, you pass the exam. (Eğer sıkı çalışırsan sınavı geçersin.)  
+> If you study hard, you will pass the exam. (Eğer bu sınava sıkı çalışırsan, sınavı geçeceksin.)  
 
 > [!INFO] Bazı durumlarda, Future Tense yerine, bazı geleceğe atıf yapan modal’lar de kullanılabilir.  
 > If you drop that glass, it might break.  
