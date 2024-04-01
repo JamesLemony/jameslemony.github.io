@@ -51,3 +51,15 @@ Biz, "too" kelimesini, insanların yaptığı şeylere katılmak için kullanabi
 >  
 > He will be sleeping tomorrow.  
 > So will I.  
+>  
+> They are going to the beach.  
+> So are we!  
+>  
+> This movie is hilarious!  
+> So it is!  
+>  
+> I am feeling a little tired.  
+> So am I.  
+>  
+> She can speak three languages fluently.  
+> So can my brother.  

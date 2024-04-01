@@ -27,6 +27,12 @@ Türkçe’de “değil mi” anlamına gelir. Cümlelerin sonuna, eklenir ve on
 > I have a bike, don't I?  
 > He has had a couple drinks, hasn't he?  
 > She has a really nice car, doesn't she?  
+> You've finished your work, haven't you?  
+> She has a cat, doesn't she?  
+> They haven't arrived yet, have they?  
+> He doesn't like swimming, does he?  
+> We've met before, haven't we?  
+> They always come on time, don't they?  
 
 > [!INFO] Yapı olarak olumlu görünen ama anlamca olumsuz olan cümleler, olumsuz cümle olarak kabul edilir.  
 >  

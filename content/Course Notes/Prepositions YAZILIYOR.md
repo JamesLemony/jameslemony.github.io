@@ -1,7 +1,17 @@
 ## Short Version  
 #### Transportation  
 ###### At for Transportation  
-"At"in, taşımada bir kullanımı yoktur.  
+"At"in, taşımada bir kullanımı yoktur fakat toplu taşıma beklediğimiz yerlerde kullanırız.  
+
+> [!EXAMPLE]  
+> We debated renting bikes at the beach or grabbing a cab.  
+> Stuck at a red light, I glanced at the interesting billboards. Looking for my boarding pass, I frantically rummaged through my bag at the gate.  
+> The tour guide gave a fascinating historical speech at the port before the cruise began.  
+> The high-speed train zipped past the countryside at an incredible speed.  
+> The double-decker bus lurched forward at the stop, causing a few passengers to stumble.  
+> My phone died just as I needed to check the subway map at the station.  
+> Let's aim to arrive at the bus stop at least 15 minutes early to avoid missing it.  
+> The scenic route along the coast was breathtaking as we cruised at a leisurely pace.  
 
 ###### On for Transportation  
 Bir taşıma aracı büyük olduğunda, diğer insanlar ile birlikte kullanıldığında, "on" kullanıyoruz.  
