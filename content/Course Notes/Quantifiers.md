@@ -1,5 +1,5 @@
 
-> [!WARNING] Bu konunun daha iyi öğrenilebilmesi için [[Countable and Uncountable Nouns]] konusunun iyi bir şekilde öğrenilmiş olamsı gerekiyor.  
+> [!WARNING] Bu konunun daha iyi öğrenilebilmesi için [[Countable and Uncountable Nouns]] konusunun iyi bir şekilde öğrenilmiş olması gerekiyor.  
 
 # A1  
 ### Some  

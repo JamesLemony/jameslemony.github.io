@@ -8,7 +8,7 @@ Indefinite Pronouns, duruma göre, cümlenin bir çok yerinde kullanılabilirler
 | Person (-one/-body) | Anybody / Anyone | No one / Nobody | Everyone / Everybody | Someone / Somebody |  
 | Place (-where)      | Anywhere         | Nowher          | Everywhere           | Somewhere          |  
 
-> [!NOTE] Genel olarak; "some" ile başlayanlar olumlu, "any" ile başlayanlar olumsuz ya da soru, "no" ile başlayanlar olumlu cümlelerde kullanılır.  
+> [!NOTE] Genel olarak; "some" ve "no" ile başlayanlar olumlu, "any" ile başlayanlar olumsuz ya da soru cümlelerde kullanılır.  
 
 #### Özne Olarak Kullanımları  
 

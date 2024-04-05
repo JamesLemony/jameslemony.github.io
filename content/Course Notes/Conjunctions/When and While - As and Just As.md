@@ -14,6 +14,15 @@ While we were watching the moive, the lights went off.
 > While everybody is watching TV in their warm houses, I will be out guarding the country. That's what being a soldier is all about.  
 
 > [!EXAMPLE]  
+> When the teacher explained the concept, some students were doodling in their notebooks.  
+> When I tripped on the sidewalk, I was texting my friend.  
+> When the movie ended, the credits were still rolling.  
+> When the phone rang, I was making dinner.  
+> When the taxi arrived, we were arguing about where to go. When the clock struck midnight, everyone cheered.  
+> When I opened the door, a gust of wind blew out the candle.  
+> When the car sputtered to a stop, we were miles from the nearest town.  
+> When the fire alarm blared, everyone calmly evacuated the building.  
+> When the fog rolled in, the lighthouse began to beam its powerful light.  
 > It was past one o'clock when Pierre left his friend.  
 > When it finally started going, she closed her eyes.  
 > When he spoke, his voice was controlled.  
