@@ -2,13 +2,13 @@ Indefinite Pronouns, kelime anlamı ile "Belirsiz (Belgisiz) Zamirler" anlamına
 
 Indefinite Pronouns, duruma göre, cümlenin bir çok yerinde kullanılabilirler.  
 
-| X                   | Any              | No              | Every                | Some               |  
+| X                   | Any- (- ?)       | No- (+)         | Every- (+)           | Some- (+)          |  
 | ------------------- | ---------------- | --------------- | -------------------- | ------------------ |  
 | Object (-thing)     | Anything         | Nothing         | Everything           | Something          |  
 | Person (-one/-body) | Anybody / Anyone | No one / Nobody | Everyone / Everybody | Someone / Somebody |  
-| Place (-where)      | Anywhere         | Nowher          | Everywhere           | Somewhere          |  
+| Place (-where)      | Anywhere         | Nowhere         | Everywhere           | Somewhere          |  
 
-> [!NOTE] Genel olarak; "some" ve "no" ile başlayanlar olumlu, "any" ile başlayanlar olumsuz ya da soru cümlelerde kullanılır.  
+> [!NOTE] Genel olarak; "some", "every" ve "no" ile başlayanlar olumlu, "any" ile başlayanlar olumsuz ya da soru cümlelerde kullanılır.  
 
 #### Özne Olarak Kullanımları  
 
