@@ -77,3 +77,4 @@
 [[Comparatives and Superlatives]]  
 [[Reduction KULLANMA - ÇOK KARIŞIK]]  
 [[Stative & Dynamic Verbs]]  
+[[Subjunctive Mood YAZMA BEKLENIYOR]]  
