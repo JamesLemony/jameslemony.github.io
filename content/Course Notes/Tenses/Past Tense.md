@@ -48,7 +48,7 @@ Did + He/She/It + V1
 > The movie did make me laugh until I cried!  
 
 > [!EXAMPLE]  
-> He claned the house yesterday.  
+> He cleaned the house yesterday.  
 > She washed her car in the garage last week.  
 > It ate a banana last month.  
 > I knew the answer a few minutes ago.  
