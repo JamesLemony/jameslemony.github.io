@@ -14,6 +14,12 @@ While we were watching the moive, the lights went off.
 > While everybody is watching TV in their warm houses, I will be out guarding the country. That's what being a soldier is all about.  
 
 > [!EXAMPLE]  
+> They were having a nap when she worked.  
+> I was running when I saw a friend.  
+> It was raining when we waited for the bus.  
+> Sarah was cooking when her husband set the table.  
+> The children were playing in the garden when the ice cream truck came.  
+> I was reading a book when my phone rang.  
 > When the teacher explained the concept, some students were doodling in their notebooks.  
 > When I tripped on the sidewalk, I was texting my friend.  
 > When the movie ended, the credits were still rolling.  
@@ -32,6 +38,10 @@ While we were watching the moive, the lights went off.
 > When you know you are wrong, you are willing to do whatever it takes to get to her.  
 > Simon rejected to all claims against him when the owner of the company had proof that he was the one who embezzled money from the company.  
 >  
+> While you were running, I drank water.  
+> She solved math problems while she was drinking coffee.  
+> The mechanic was fixing the car when the customer came.  
+> The teacher was explaining the question when the students talked.  
 > I don't want you to drive while you're so tired.  
 > She waited while he poured a cup of coffee.  
 > They stay awake at night while researchers work in the daytime.  
