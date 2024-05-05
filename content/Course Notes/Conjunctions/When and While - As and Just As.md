@@ -43,7 +43,7 @@ While we were watching the moive, the lights went off.
 > The mechanic was fixing the car when the customer came.  
 > The teacher was explaining the question when the students talked.  
 > I don't want you to drive while you're so tired.  
-> She waited while he poured a cup of coffee.  
+> She waited while he was pouring a cup of coffee.  
 > They stay awake at night while researchers work in the daytime.  
 > While talking to Tikhon he asked about me twice.  
 > After a while he rang the bell again, very loudly.  
