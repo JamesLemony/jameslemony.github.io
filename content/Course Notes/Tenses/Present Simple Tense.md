@@ -28,7 +28,7 @@ Does + He/She/It + V1?
 > She is not a teacher.  
 > Where is your brother?  
 > She is clever.  
-> We are businessmen  
+> We are businessmen.  
 
 > [!INFO] Bazı durumlarda, olumlu cümlelerde, yardımcı fiiller kullanılabilir. Bu gibi durumlarda, yardımcı fiiller üstüne bastırılarak okunur ve yapılan eylemi vurgular. Bu tarz durumlarda, fiil, -s takısı almaz.  
 >  
