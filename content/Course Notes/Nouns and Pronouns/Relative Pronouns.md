@@ -11,11 +11,11 @@ Ted, who is my lawyer, is my neighbor.
 Ted, who is my neighbor, is a lawyer.  
 
 > [!EXAMPLE]  
-> We met many people last week who were from the Basque region in Spain.  
-> The writer, who wrote more than ten books, recieved fame only two years before his death.  
 > The bartender who served us was actually a very kind man.  
+> The writer, who wrote more than ten books, recieved fame only two years before his death.  
 > Our teacher who is never late for a lesson has missed two lessons, so he must be sick.  
 > The officer who signed our papers seemed to know what he was doing.  
+> We met many people last week who were from the Basque region in Spain.  
 
 > [!INFO] Relative Pronun'lar, niteleyecekleri sözcükten hemen sonra gelirler.  
 > Komşum olan Ted, her Pazar çimlerini biçer.  
@@ -65,7 +65,7 @@ That is a really privy television, which has ten different inputs.
 > I read a book which was about space and decided to be an astronaut.  
 > Wool can be used to make many garments which can be used in any climate.  
 > My red dress got ruined by coffee which was left on the table by my brother.  
-> Darkness is scary for some people, which makes sense as you don't know waht is out there in a dark place.  
+> Darkness is scary for some people, which makes sense as you don't know what is out there in a dark place.  
 > Bird can fly for hours without landing, which has amazed mankind throughout the history.  
 > The weather has been terrible recently, which trapped the locals in their houses.  
 
