@@ -23,7 +23,21 @@ Ground: Yer, zemin.
 Sign: İp ucu, kanıt, işaret (normalde imza/imzalamak demek).  
 In accordance: Bir şeye uygun.  
 Examine: İncelemek.  
-Impose:  
+Impose: Empoze etmek (esnek bir sözcük, farklı anlamlara gelebiliyor).ü  
+Landing Gear: İniş takımı.  
+Faulty: Bozuk, hatalı.  
+Communication: İletişim.  
+Calibrated: Kalibre etme.  
+Ensure: Emin olmak.  
+Accuracy: İsabet oranı, doğruluk oranı.  
+Conduct: Yürütmek (Bir işi yürütmek).  
+Storage: Depo, depolamak.  
+Permanently: Kalıcı bir şekilde, kalıcı olarak.  
+On time: Zamanında.  
+Seam: Birleşme yeri.  
+Plated: Kaplanmış.  
+Encounter: Karşılaşmak (bir olayla).  
+Mount: Takmak.  
 
 # Exam Dictionary  
 
