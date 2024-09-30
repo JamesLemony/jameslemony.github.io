@@ -99,7 +99,7 @@ Is He/She/It + Ving
 > Samuel is taking the TOEFL test just now. He has been studying it for five weeks.  
 > Clara is climbing Himalayas at the moment. It will take her two weeks to climb up and down.  
 > I am not listening to you any more. Your words are meaningless.  
-> Josh isn't taking a nap at the moment. She is studying in the living room.  
+> Josh isn't taking a nap at the moment. He is studying in the living room.  
 > They are not coming here right now as we speak. They will come in the evening though.  
 > We are not considering new ways of taxing people. Our people have enough tax burden.  
 > I am enjoying the moment so much right now. The music is amazing.  

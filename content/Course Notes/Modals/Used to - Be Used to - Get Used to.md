@@ -1,11 +1,6 @@
 # Used to  
 "Used to", geçmişte yaptığımız fakat şimdi yapmadığımız, yapmayı bıraktığımız alışkanlıklardan bahsederken kullanılır. Kullanması oldukça kolaydır.  
 
-> [!WARNING] Geçmişte bir eylemin yapılmış veya gerçekleşmiş olması, o eylemin "used to" yapısı ile kullanılması gerektiği anlamına gelmez. Gelmişte tek seferlik gerçekleşmiş eylemler [[Past Tense]] yapısı ile kullanılır. "Used to" ile kurduğumuz cümlelerdeki eylemlerin ise bir tür alışkanlık olması gerekir. Eylemleri, belirli aralıklar ile, uzun süre boyunca devam ettirmiş olmamız gerekir.  
->  
-> He slept in the cold room that night.  
-> He used to sleep in a cold room.  
-
 **Olumlu cümle yapısı:**  
 I/You/We/They/He/She/It + used to + Verb  
 
@@ -14,6 +9,26 @@ I/You/We/They/He/She/It + didn't use to + Verb
 
 **Soru cümle yapısı:**  
 Did + I/You/We/They/He/She/It + use to + Verb  
+
+> [!WARNING] Geçmişte bir eylemin yapılmış veya gerçekleşmiş olması, o eylemin "used to" yapısı ile kullanılması gerektiği anlamına gelmez. Gelmişte tek seferlik gerçekleşmiş eylemler [[Past Tense]] yapısı ile kullanılır. "Used to" ile kurduğumuz cümlelerdeki eylemlerin ise bir tür alışkanlık olması gerekir. Eylemleri, belirli aralıklar ile, uzun süre boyunca devam ettirmiş olmamız gerekir.  
+>  
+> He slept in the cold room that night.  
+> He used to sleep in a cold room.  
+>  
+> She visited Paris last summer.  
+> She used to visit Paris every summer  
+>  
+> I watched that movie yesterday.  
+> I used to watch that movie every weekend when I was younger.  
+>  
+> They played football once last year.  
+> They used to play football every Saturday.  
+>  
+> He lived in New York for a month.  
+> He used to live in New York when he was a student.  
+>  
+> We met at the conference last week.  
+> We used to meet at conferences every year.  
 
 > [!EXAMPLE]  
 > Did you use to smoke?  

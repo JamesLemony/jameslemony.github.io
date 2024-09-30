@@ -186,15 +186,16 @@ Kırk beş yaşında olan annem, bir İngilizce kursuna yazıldı. (Eğer virgü
 >  
 > The weather has been terribly hot for the past three days, which makes it impossible to go out at noon.  
 
-## Of Which, Of Whom, Of Whose Kullanımı  
-Bazılarını okumadığım bir sürü kitabım var.  
-I have a lot of books, some of which I have never read.  
-
-Tamamı son sınıf öğrencisi olan birkaç gönüllüye ihtiyacı var.  
-She needs a few volunteers, all of whom must be seniors.  
-
-Sorunlarından bir tanesi yetersiz otopark yerleri olan bir mahallede yaşıyoruz.  
-We live in a neighbourhood, one of whose problems is insufficient parking spaces.  
+## Prepositional Relative Clauses (YAZMA BEKLENİYOR KULLANMA)  
+> [!EXAMPLE]  
+> Bazılarını okumadığım bir sürü kitabım var.  
+> I have a lot of books, some of which I have never read.  
+>  
+> Tamamı son sınıf öğrencisi olan birkaç gönüllüye ihtiyacı var.  
+> She needs a few volunteers, all of whom must be seniors.  
+>  
+> Sorunlarından bir tanesi yetersiz otopark yerleri olan bir mahallede yaşıyoruz.  
+> We live in a neighbourhood, one of whose problems is insufficient parking spaces.  
 
 ## Relative Pronoun'ları Cümleden Çıkarma (Reduction)  
 Bu konunun daha detaylı bir şekilde anlatımı, [[Reduction KULLANMA - ÇOK KARIŞIK]] kısmında var.  

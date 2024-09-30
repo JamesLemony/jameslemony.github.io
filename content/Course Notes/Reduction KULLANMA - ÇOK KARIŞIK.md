@@ -39,7 +39,7 @@ Bu cümlelerde bir "linking verb", yani am/is/are, olduğu için, reduction yapm
 > Did you see the big bird ==which is== flying above us?  
 > Did you see the big bird flying above us?  
 
-## Reduction With Present Simple Tense  
+## Reduction With Present Simple Tense (BURADA CİDDİ SIKINTILAR VAR GİBİ DURUYOR)  
 Bu zamanda bir cümleyi reduction ile kısaltmak, diğer kullanımlara göre daha advanced bir kullanım. Yapılabiliyor fakat tense değişiyormuş gibi duruyor (ya da Gerund oluyor, emin değilim.).  
 
 > [!EXAMPLE]  
