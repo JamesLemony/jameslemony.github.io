@@ -53,6 +53,24 @@ Sample: Örnek (bir şeyin içerisinden alınan bir örnek).
 Digit: Hane (Örneğin üç haneli bir sayı, 103. Ev demek değil.).  
 Function: Fonksiyon.  
 Usual: Sıradan.  
+Suspect: Şüphelenmek.  
+Replacement: Yenisi (eski bir şeyin değiştirilirken takılacak olan yenisi).  
+Doubt: Tereddüt, şüphe.  
+Knowledge: Bilgi, bilgi birikimi.  
+Confidence: Özgüven.  
+Ignore: Görmezden gelmek.  
+Refuse: Reddetmek, kabul etmemek.  
+Retreat: Geri çekilmek.  
+Malfunction: Bozulma, bozulma anı.  
+Reject: Reddetmek.  
+Restricted: Kısıtlanmış.  
+Register: Kayıt etmek.  
+Blow: Üflemek.  
+Throw: Atmak.  
+Show: Göstermek.  
+Proper: Uygun, uygun olan.  
+Strenght: Güç.  
+Improve: Geliştirmek  
 
 # Exam Dictionary  
 
