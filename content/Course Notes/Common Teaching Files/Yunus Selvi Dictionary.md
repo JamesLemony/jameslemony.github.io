@@ -71,7 +71,12 @@ Show: Göstermek.
 Proper: Uygun, uygun olan.  
 Strenght: Güç.  
 Improve: Geliştirmek  
-
+Available: Uygun, mevcut.  
+Applicable: Uygulanabilir (bir şeye bir şey takılabilir gibi).  
+Utilized: Amacı için kullanılmış.  
+Verification: Doğrulamak (isimleşmiş).  
+Verify: Doğrula (fiil hali).  
+Both: Her ikisi.  
 # Exam Dictionary  
 
 | ID  | Kelime    | Anlam               | Örnek Cümle                                        |  
