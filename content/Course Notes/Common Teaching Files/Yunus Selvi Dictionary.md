@@ -77,6 +77,20 @@ Utilized: Amacı için kullanılmış.
 Verification: Doğrulamak (isimleşmiş).  
 Verify: Doğrula (fiil hali).  
 Both: Her ikisi.  
+Dedicated: Belirlenmiş, özel.  
+Facilitiy: Bir şeyin yapıldığı yer, bina.  
+Heat sink: Isı çeken yer, soğutucu.  
+Return: Geri göndermek, yollamak.  
+Distributor: Dağıtıcı.  
+Lead: Kurşun (madde olan).  
+Produce: Üretmek.  
+Recently: Yakın zamanda.  
+Aural: İşitsel.  
+Through: İçerisinden.  
+Though: Buna rağmen.  
+Route: Rota, yönlendirmek.  
+
+
 # Exam Dictionary  
 
 | ID  | Kelime    | Anlam               | Örnek Cümle                                        |  

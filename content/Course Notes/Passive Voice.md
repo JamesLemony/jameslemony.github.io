@@ -82,6 +82,18 @@ Object + Aux Verbs + Be + V3 (+ Subject)
 > Two people on the pavement were run over by the careless driver.  
 > A way to control the weather will be found by humans in the near future.  
 
+> [!WARNING] Stative Sentences (Durum Cümleleri), passive gibi görünebilir fakat passive değillerdir. Bu yapılarda herhangi bir eylem bildirilmez, durum bildirilir. Zaten "be"den sonra gelenler de sıfatlardır. Yani her "am/is/are/was/were/been -ed" görüldüğünde, Passive diye atlanmamalıdır.  
+> I am bored.  
+> They are tired after school.  
+> He is satisfied with his new job.  
+> She is obsessed with cleanliness.  
+> hey are exhausted after the long journey.  
+> He is amused by the joke.  
+> The team is motivated by the recent victory.  
+> She is offended by his rude comment.  
+> He is astonished by the progress of the project in such a short time.  
+> The company is committed to reducing its environmental impact through sustainable practices.  
+
 > [!EXAMPLE]  
 > The mechanic repaired the car.  
 > English is spoken in England.  
