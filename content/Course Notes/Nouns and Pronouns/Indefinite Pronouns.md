@@ -141,6 +141,6 @@ Bu tarz cümleler, anlamı koruyarak olumlu şekilde "No" ile de kurulabilir.
 > [!INFO] Bazı durumlarda, "Any" sözcüğünü, olumlu cümlelerde de kullanabiliriz.  
 >  
 > I will go anywhere with you. (Seninle, nereye olsa giderim.)  
-> I will do antyhing to save her. (Onu kurtarmak için ne gerekirse yaparım.)  
+> I will do anything to save her. (Onu kurtarmak için ne gerekirse yaparım.)  
 > You can ask anybody, they will know. (Herhangi birine sorabilirsin, bilirler.)  
 > Anyhwere is fine with me. (Her yer bana uyar.)  
