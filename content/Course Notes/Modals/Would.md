@@ -1,4 +1,4 @@
-### Kibar Sorular İçin Would  
+### Kibar Sorular için Would  
 
 > [!EXAMPLE]  
 > Would you like to help me with this?  
@@ -17,7 +17,7 @@
 > Would you mind if we used your books to study tonight?  
 > Would you sister mind coming with her husband?  
 
-### Future in the Past İçin Would  
+### Future in the Past için Would  
 
 > [!EXAMPLE]  
 > He said he would see his brother tomorrow.  
@@ -32,16 +32,47 @@
 > Tom promised he would come himself and see you off before your plane takes off.  
 > He wanted everyone to know that he would get married in a month.  
 
-> [!INFO] "Would" ve "Would Have" Farkı  
-> "Would" ve "Would Have", birbirlerinden çok farklı olmasalar da birazcık farklı şekilde kullanılan yapılardır. Would, daha çok present bir anlam taşır. "Would" ile kurulan cümleler, istek bildirir. "Would Have" konusunda daha detaylı bilgi için [[Past Modals]]'a bakabilirsiniz.  
- >  
-> I would go tomorrow, but I can’t, because I have another commitment.  
-> Yarın gitmek isterdim ama gidemem çünkü başka bir sözüm var.  
+### "Would" ve "Would Have" Farkı  
+"Would" ve "Would Have", birbirlerinden çok farklı olmasalar da birazcık farklı şekilde kullanılan yapılardır. Would, daha çok present bir anlam taşır. "Would" ile kurulan cümleler, istek bildirir. "Would Have" konusunda daha detaylı bilgi için [[Past Modals]]'a bakabilirsiniz.  
+ 
+I would go tomorrow, but I can’t, because I have another commitment.  
+Yarın gitmek isterdim ama gidemem çünkü başka bir sözüm var.  
+
+Öte yandan, "Would Have" ile kurulan cümleler, geçmişte olamayan şeyleri anlatır.  
+
+I would have gone yesterday, since I thought I was free at that time, but a previous commitment prevented me from going.  
+Yarın giderdim (ama gidemedim) çünkü o zaman boş olduğumu düşünüyordum ama başka bir sözüm olduğundan gidemedim.  
+
+> [!EXAMPLE]  
+> I would help you if I knew how to fix it. *(Şu an nasıl yapılacağını bilmiyorum, ama bilsem yardım ederdim.)*  
+> I would have helped you if I had known how to fix it. *(Geçmişte nasıl yapılacağını bilseydim, yardım ederdim ama bilemiyordum.)*  
 >  
-> Öte yandan, "Would Have" ile kurulan cümleler, geçmişte olamayan şeyleri anlatır.  
+> She would come to the party if she felt better. *(Şu an iyi hissetmiyor, ama iyi hissetse gelirdi.)*  
+> She would have come to the party if she had felt better. *(Geçmişte daha iyi hissetseydi partiye gelirdi, ama gelmedi.)*  
 >  
-> I would have gone yesterday, since I thought I was free at that time, but a previous commitment prevented me from going.  
-> Yarın giderdim (ama gidemedim) çünkü o zaman boş olduğumu düşünüyordum ama başka bir sözüm olduğundan gidemedim.  
+> They would move to another city if they found better jobs. *(Şu anda daha iyi iş bulsalar taşınacaklar.)*  
+> They would have moved to another city if they had found better jobs. *(Geçmişte daha iyi iş bulsalardı taşınırlardı ama bulamadılar.)*  
+>  
+> We would buy that car if it were cheaper. *(Şu an daha ucuz olsa satın alırdık.)*  
+> We would have bought that car if it had been cheaper. *(Geçmişte daha ucuz olsaydı satın alırdık ama almadık.)*  
+>  
+> You would succeed if you worked harder. *(Şu an daha çok çalışsan başarılı olursun.)*  
+> You would have succeeded if you had worked harder. *(Geçmişte daha çok çalışsaydın başarılı olurdun ama olmadın.)*  
+>  
+> I would tell her the truth if she asked. *(Şu an sorsa gerçeği söylerdim.)*  
+> I would have told her the truth if she had asked. *(Geçmişte sorsaydı gerçeği söylerdim ama sormadı.)*  
+>  
+> They would come visit us if they lived closer. *(Şu an daha yakın yaşasalar bizi ziyarete gelirlerdi.)*  
+> They would have come to visit us if they had lived closer. *(Geçmişte daha yakın yaşasalardı bizi ziyaret ederlerdi ama etmediler.)*  
+>  
+> He would accept the offer if it included more benefits. *(Şu anda daha fazla avantaj içerse kabul ederdi.)*  
+> He would have accepted the offer if it had included more benefits. *(Geçmişte daha fazla avantaj içerseydi kabul ederdi ama etmedi.)*  
+>  
+> We would join you if we didn’t have other plans. *(Şu anda başka planımız olmasa katılırız.)*  
+> We would have joined you if we hadn’t had other plans. *(Geçmişte başka planımız olmasaydı katılırdık ama olmadı.)*  
+>  
+> I would lend you some money if I had any left. *(Şu an param olsa sana borç verirdim.)*  
+> I would have lent you some money if I had had any left. *(Geçmişte param olsaydı sana borç verirdim ama yoktu.)*  
 
 ### Tahmin veya Var Olmayan Durumlar İçin Would  
 
