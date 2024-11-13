@@ -18,6 +18,7 @@ const config: QuartzConfig = {
     baseUrl: "lemony.in",
     ignorePatterns: ["private", "templates"],
     defaultDateType: "created",
+    generateSocialImages: false,
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
