@@ -48,7 +48,7 @@ Bu isimler, tekil oldukları için, kullanılırken başlarına genellikle "a/an
 > The Shepard was too careless, so the wolf had no trouble entering the barn and killing all the sheep.  
 
 > [!TIP] Ek bilgi!  
-> Tekil isimler, başına "A/an ve the" alabilirken çoğul isimler ise başlarına sadece "The" alabilir çünkü tekil değillerdir.  
+> Tekil isimler, başına "A/an ve the" alabilirken çoğul isimler ise başlarına sadece "The" alabilir çünkü tekil değillerdir ve "A/An", "bir" anlamına gelir.  
 ## Uncountable Nouns  
 Sayılamayan isimler, İngilizcede önemli konulardan biridir. Bu isimler, adından da anlaşılacağı gibi, normal şartlar altında sayılamazlar. Bu grup isimler, genellikle, sayılamayacak kadar çok olan nesneler (pirinç, tuz, saç) ya da duygu, fikir, düşünce gibi soyut kavramlardan oluşurlar. Bu kelimelerin çoğul hali yoktur ve çoğul yapılarda kullanılamazlar. Kullanıldıkları yerlerde, tekil olarak görev alırlar. Bu kelimelere örnek olarak şunları verebiliriz: "tea, milk, sugar, salt, glass, hair, romance, knowledge, information, news".  
 
