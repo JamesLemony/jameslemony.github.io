@@ -53,16 +53,14 @@
 Bazı durumlarda "do" ve "make" karıştırılabilir.  
 
 > [!EXAMPLE]  
-> ~~I will do a cake.~~🚫  
+> ~~I will do a cake.~~ 🚫  
 > I will make a cake.  
 >  
-> ~~She made her homework.~~🚫  
+> ~~She made her homework.~~ 🚫  
 > She did her homework.  
 >  
-> ~~He did a noise.~~🚫  
+> ~~He did a noise.~~ 🚫  
 > He made a noise.  
 >  
-> ~~We made our chores.~~🚫  
+> ~~We made our chores.~~ 🚫  
 > We did our chores.  
-
-
