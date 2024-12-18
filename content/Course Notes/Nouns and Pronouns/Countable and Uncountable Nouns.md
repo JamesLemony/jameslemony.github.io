@@ -56,6 +56,8 @@ Sayılamayan isimler, İngilizcede önemli konulardan biridir. Bu isimler, adın
 > There is salt on the floor.  
 > Electricity is something you cannot see or touch.  
 > Wood is used to build furniture, even houses.  
+> Happiness is an incredible emotion.  
+> There was glass on the floor but I cleaned it up.  
 
 #### İstisnalar  
 Bazı isimler, İngilizcede çoğul halde bulunsa da cümle içerisinde tekil şekilde kullanılırlar ve grammar, onlara tekil şekilde davranır. Bunlar genelde bilim dalları ve benzeri şeylerdir.  

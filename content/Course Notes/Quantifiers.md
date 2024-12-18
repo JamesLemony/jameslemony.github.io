@@ -1,7 +1,54 @@
 
 > [!WARNING] Bu konunun daha iyi öğrenilebilmesi için [[Countable and Uncountable Nouns]] konusunun iyi bir şekilde öğrenilmiş olması gerekiyor.  
 
-# A1  
+![Test English Quantifiers Picture](https://test-english.com/staging11/wp-content/uploads/quantifiers_a2-768x768.png)  
+
+# Quantifiers for Countables  
+
+### Many  
+Many + plural noun.  
+
+> [!EXAMPLE]  
+> I have many apples.  
+> She has many snowballs.  
+> They have many boxes of products.  
+> For many people, animals are perhaps the most familiar, and most interesting of living things. This may be because we are animals ourselves.  
+> Many animals share the same habitat because they are from the same age group.  
+> There are many superstitions that people believe but they don't really make any sense.  
+> There are many flower pots on the balcony and they seem very alive, so there must be someone in the house that keep them hydrated.  
+
+# Quantifiers for Uncountable Nouns  
+### Much  
+Many + uncountable noun.  
+
+> [!EXAMPLE]  
+> Much of the sugar comes from the sugar cane industry in South American. In other parts of the world, it mostly comes from sugar beet.  
+> You haven't given this much considiration, have you? You don't even know what you are stepping into.  
+> I prefer keeping much of what I intend to say to myself. Some people just don't understand the value of silence.  
+> I swear I wont use much oil in this dish because I know you are on a diet.  
+> A very large amount of what you do doesn't produce much profit for the company, so we decided to lower your salary.  
+
+# Quantifiers for Both Countable and Uncountable Nouns  
+### A Lot of / Lots of  
+"Çok/çok fazla" anlamına gelir. Sonrasında hem sayılamayan hem de sayılabilen bir isim gelir. Her ikisinden sonra gelen isim çoğuldur. Genellikle olumlu cümlelere kullanılır.  
+
+A lot of / Lots of + plural noun.  
+
+> [!EXAMPLE]  
+> There is lots of time. We can relax.  
+> There are a lot of apples in that basket.  
+> Damla has a lot of talents.  
+> I want to do a lot of things for charity organizations but I am scared that they will use the money and resources not for their target group but for themselves.  
+> A lot of books were burnt during the revolution because everyone was scared to be caught reading or having one with the suppressed ideology.  
+> Lots of demonstrations were organized to stop the demolishing of the old orphanage but the goverment officals were blinded by greed.  
+> I have lots of things that I can suggest you to do in Bali, but I am sure you will not want to leave the beach.  
+> Terry has a lot of songs devoted to his wife who passed away from cancer a few months ago.  
+
+A lot of / Lots of + uncountable noun.  
+
+> [!EXAMPLE]  
+> There is lots of time. We can relax.  
+
 ### Some  
 Some + plural noun/uncountable noun.  
 
@@ -18,19 +65,23 @@ Some + plural noun/uncountable noun.
 > Some police officer knocked on the door and gave a piece of paper to my mother which said we had to evacuate the house immidiately.  
 
 ### Any  
-Any + singular noun/plural noun/uncountable noun. "Any" kelimesinin her türlü kullanımından sonra bu isimler gelebilir.  
+Any + singular noun/plural noun/uncountable noun. Any, genellikle olumsuz ve soru cümlelerinde kullanılır.  
 
-Olumsuz ve soru cümlelerinde kullanımı:  
+Olumsuz cümlelerde kullanımı:  
 
 > [!EXAMPLE]  
 > He does not have any more fruits.  
-> Have you got any news to tel me? You seem like you have some beans to spill.  
-> Does Eric possess any tables or chairs that he is not using?  
 > Hans doesn't want to run any marathon. He wants to run the Boston marathon and finish it first.  
 > I do not know if you have any painkillers for a headache but I wanted to ask because you always have a headache.  
+
+Soru cümlelerinde kullanımı:  
+
+> [!EXAMPLE]  
+> Does Eric possess any tables or chairs that he is not using?  
+> Have you got any news to tell me? You seem like you have some beans to spill.  
 > Does your father have any money?  
 
-##### Olumlu Cümlelerde Kullanımı  
+Genellikle olumsuz ve soru cümlelerinde kullanılsa da bazı durumlarda olumlu cümlelerde de kullanılabilir.  
 
 > [!EXAMPLE]  
 > Use any modals you want.  
@@ -39,42 +90,8 @@ Olumsuz ve soru cümlelerinde kullanımı:
 > Any money given to Dorothy will go to her bank account. She is so strict with money that she cannot even bear to spend any of it.  
 > Any employee in Germany knows the rules cannot be broken. If you want to work, you have to stick with them.  
 
-### Many  
-Many + plural noun.  
+# Buradan Sonrası B1+  
 
-> [!EXAMPLE]  
-> I have many apples.  
-> She has many snowballs.  
-> They have many boxes of products.  
-> For many people, animals are perhaps the most familiar, and most interesting of living things. This may be because we are animals ourselves.  
-> Many animals share the same habitat because they are from the same age group.  
-> There are many superstitions that people believe but they don't really make any sense.  
-> There are many flower pots on the balcony and they seem very alive, so there must be someone in the house that keep them hydrated.  
-
-### Much  
-Many + uncountable noun.  
-
-> [!EXAMPLE]  
-> Much of the sugar comes from the sugar cane industry in South American. In other parts of the world, it mostly comes from sugar beet.  
-> You haven't given this much considiration, have you? You don't even know what you are stepping into.  
-> I prefer keeping much of what I intend to say to myself. Some people just don't understand the value of silence.  
-> I swear I wont use much oil in this dish because I know you are on a diet.  
-> A very large amount of what you do doesn't produce much profit for the company, so we decided to lower your salary.  
-
-### A lot of / Lots of  
-A lot of / Lots of + plural noun/uncountable noun.  
-
-> [!EXAMPLE]  
-> There is lots of time. We can relax.  
-> There are a lot of apples in that basket.  
-> Damla has a lot of talents.  
-> I want to do a lot of things for charity organizations but I am scared that they will use the money and resources not for their target group but for themselves.  
-> A lot of books were burnt during the revolution because everyone was scared to be caught reading or having one with the suppressed ideology.  
-> Lots of demonstrations were organized to stop the demolishing of the old orphanage but the goverment officals were blinded by greed.  
-> I have lots of things that I can suggest you to do in Bali, but I am sure you will not want to leave the beach.  
-> Terry has a lot of songs devoted to his wife who passed away from cancer a few months ago.  
-
-# A2 and More  
 ### Plenty of  
 Plenty of + plural noun/uncountable noun.  
 
