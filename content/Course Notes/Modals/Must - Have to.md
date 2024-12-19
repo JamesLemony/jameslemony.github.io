@@ -1,3 +1,5 @@
+![Test English Must - Have to](https://test-english.com/staging11/wp-content/uploads/must_vs_have-to_form.png)  
+
 # Must  
 "Must" bir modal'dır. Bu sebep ile modal kurallarına uygun hareket eder ve kendisinden sonra fiilin ilk halini alır. "Must", "Have to" ile kıyaslandığında, daha az zorunluluk bildiren bir modal'dır. Must ile kurulan cümleler, konuşan veya cümleyi kuran kişinin hissettiği zorunluluk olarak düşünülebilir.  
 

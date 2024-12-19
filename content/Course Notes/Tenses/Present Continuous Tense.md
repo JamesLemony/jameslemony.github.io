@@ -1,3 +1,5 @@
+![Test English Present Continuous Tense](https://test-english.com/staging11/wp-content/uploads/present-simple-present-continuous_form.png)  
+
 Present Continuous Tense, Türkçeye şimdiki zaman diye çevrilir. Türkçe ile kıyaslandığında, kullanımı neredeyse aynıdır. Şu anda gerçekleşen eylemleri anlatırken kullanılır. Cümle yapısı oldukça basittir.  
 
 Present Continuous Tense’in yardımcı fiili “be”dir. Fakat be, cümlelerin içinde olduğu gibi kullanılmaz. Her bir özne için çekilerek, am/is/are şeklinde kullanılır.  
@@ -19,6 +21,8 @@ He/She/It is not (isn’t) + Ving
 Am I + Ving  
 Are You/We/They + Ving  
 Is He/She/It + Ving  
+
+![Test English Present Simple vs Present Continuous Tense](https://test-english.com/staging11/wp-content/uploads/present-simple-present-continuous_meaning-1.png)  
 
 > [!WARNING] Present Continuous Tense cümlelerin içindeki am/is/are’lar, Present Simple Tense’deki am/is/are’lar ile karıştırılmamalıdır. Present Continuous Tense cümlelerde, ana fiil her zaman ing alır.  
 > I am a student.  

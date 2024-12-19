@@ -1,3 +1,5 @@
+![Test English May - Might](https://test-english.com/staging11/wp-content/uploads/May-vs-Might_English-grammar-chart.webp)  
+
 ### Olasılık Bildirmek İçin Kullanımları  
 "May" de "Might" da olasılık bildirmek için kullanılırlar. Genel olarak, birbirleri ile yer değiştirebilirler. Fakat "might" daha formal bir kelimedir. Bunun dışında küçük anlamsal farkları da bulunur fakat genelde göz önüne alınmazlar.  
 

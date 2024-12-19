@@ -1,3 +1,6 @@
+![Test English Used to General](https://test-english.com/staging11/wp-content/uploads/used-to-be-get-used-to.png)  
+
+![Test English Used to](https://test-english.com/staging11/wp-content/uploads/used.to-didnt.use_new.png)  
 # Used to  
 "Used to", geçmişte yaptığımız fakat şimdi yapmadığımız, yapmayı bıraktığımız alışkanlıklardan bahsederken kullanılır. Kullanması oldukça kolaydır.  
 

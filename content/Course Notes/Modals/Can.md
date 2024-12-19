@@ -1,3 +1,5 @@
+![Test English Can](https://test-english.com/staging11/wp-content/uploads/can-cannot_form-use.jpg)  
+
 Türkçede "-ebilmek" (yapabilmek, edebilmek, uçabilmek, koşabilmek) alamı verir. Modal olarak kullanılır. Kullanımı oldukça basittir.  
 
 **Olumlu cümle yapısı:**  

@@ -1,3 +1,5 @@
+![Test English Should](https://test-english.com/staging11/wp-content/uploads/should-form.png)  
+
 "Should" bir Modal'dır. Modal olduğu için onların sahip olduğu kurallara uyar. Kendinden sonra fiil, yalın hali ile çekilmeden gelir. Olumsuz cümlelerde kendisi olumsuz olur ve soru cümlelerinde başa gelerek soru yapılır.  
 Bir şeyin yapılmasının daha iyi olduğu durumlarda, tavsiye vermek için kullanılır. Türkçeye, "Must" ile aynı şekilde çevirildiği için dikkatli olunması gerekir.  
 

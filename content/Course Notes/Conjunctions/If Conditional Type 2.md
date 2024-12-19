@@ -1,3 +1,5 @@
+![Test English Second Conditional](https://test-english.com/staging11/wp-content/uploads/second-conditional.new_.png)  
+
 Type 2, bir olay olsaydı, bir şey olurdu anlamına gelir. Hayallerimizi, gerçekleşmemiş durumları ve gerçekleşmesi zor olan durumları anlatmak için kullanılır.  
 
 If + Past Simple Tense + , + Would V1  

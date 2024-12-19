@@ -1,3 +1,5 @@
+![Test English Question Tags](https://test-english.com/staging11/wp-content/uploads/Question-tags_Grammar-chart.png)  
+
 Türkçe’de “değil mi” anlamına gelir. Cümlelerin sonuna, eklenir ve onaylama bekler. Ben anlatırken, "istisnalar konusu" diyerek anlatmayı tercih ediyorum bazen.  
 
 > [!EXAMPLE]  

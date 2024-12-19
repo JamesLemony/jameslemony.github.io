@@ -1,3 +1,5 @@
+![Test English Zero Conditional](https://test-english.com/staging11/wp-content/uploads/zero-conditional.new_.png)  
+
 Type 0’yu, genel gerçekler, her zaman gerçekleşen olaylar, bilimsel gerçekler için kullanırız. Type 0’nun her iki tarafı da Present Simple Tense’dir.  
 
 **Cümle yapısı:**  

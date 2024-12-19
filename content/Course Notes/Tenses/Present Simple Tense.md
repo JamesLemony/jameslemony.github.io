@@ -1,3 +1,5 @@
+![Test English Present Simple Tense](https://test-english.com/staging11/wp-content/uploads/present-simple-form_a1.png)  
+
 Türkçeye direkt çevirebildiğimiz, basit tenselerden biri. Geniş zaman anlamına geliyor. Rutinlerimizden, kesin bilgilerden, planlı şeylerden bahsederken Simple Present Tense kullanabiliriz.  
 
 **Olumlu cümle yapısı:**  
@@ -60,6 +62,8 @@ Does + He/She/It + V1?
 > Your phones must be off during the flight or you might get punished.  
 
 ### Be Fiili ile Yapılan Cümleler  
+![Test English Present Simple Tense Use of Be](https://test-english.com/staging11/wp-content/uploads/present_simple_be-form.png)  
+
 > [!WARNING] Cümlenin içinde “be” fiili olunca, Present Simple Tense ile yazılan cümleler birazcık gözden kaçabilir. Unutmayalım, “am, is, are” kelimeleri, aslında “be” fiilinin çekimleridir.  
 >  
 > Don’t be so fast.  

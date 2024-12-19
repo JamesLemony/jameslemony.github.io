@@ -1,3 +1,5 @@
+![Test English First Conditional](https://test-english.com/staging11/wp-content/uploads/first-conditional-B1_new.png)  
+
 Type 1, eğer bir durum varsa, diğer bir durumun gerçekleşeceğini söylemek için kullanılır. If’ten sonraki taraf Present Simple, ikinci cümle ise Future Tense’dir.  
 
 If + Present Simple Tense + , + Future Simple Tense  

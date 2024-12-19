@@ -1,3 +1,5 @@
+![Test English Stative Verbs](https://test-english.com/staging11/wp-content/uploads/Stative-non-action-verbs.png)  
+
 # Stative Verbs  
 Stative Verbs, ya da diğer adları ile "Non-Action Verbs", haraket ya da eylem belirtmeyen fiiller anlamına gelir. Bu filler, Dynamic Fillerin aksine, bir hareket yerine bir durum bildirirler. Aslında olayları, continuous olarak kullanılmamalarıdır.  
 

@@ -33,6 +33,8 @@ Object + Aux Verbs + Be + V3 (+ Subject)
 |    Perfect Infinitive    | to have taken                       | to have been taken                |  
 |          Gerund          | taking                              | being taken                       |  
 
+![Test English Active vs Passive Voice](https://test-english.com/staging11/wp-content/uploads/Active-vs-passive-voice_Grammar-chart.png)  
+
 > [!INFO] Present Perfect Continuous Tense, Past Perfect Continuous Tense, Future Continuous ve Future Perfect Continous yapılarının Passive hali yoktur.  
 
 > [!INFO] Eğer modal’lı bir cümleyi Passive yapmak istiyorsak, Modal + V3 kalıbını kullanmalıyız.  

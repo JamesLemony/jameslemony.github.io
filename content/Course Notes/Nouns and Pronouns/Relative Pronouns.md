@@ -16,6 +16,27 @@ Ted, who is my neighbor, is a lawyer.
 > Our teacher who is never late for a lesson has missed two lessons, so he must be sick.  
 > The officer who signed our papers seemed to know what he was doing.  
 > We met many people last week who were from the Basque region in Spain.  
+> She is the girl who won the competition.  
+> He is the man who fixed my car yesterday.  
+> The dog who barked all night belongs to my neighbor.  
+> The woman who lives next door is a famous artist.  
+> I know a teacher who always makes learning fun.  
+> The chef who cooked our dinner is world-renowned.  
+> The athlete who broke the record trained for years.  
+> The author who wrote this book is coming to town.  
+> The scientist who discovered the cure received a Nobel Prize.  
+> The child who solved the puzzle was applauded by everyone.  
+> The actor who starred in that movie is incredibly talented.  
+> The musician who performed at the concert amazed the audience.  
+> The engineer who designed this bridge used groundbreaking techniques.  
+> The entrepreneur who founded the company started with very little.  
+> The explorer who mapped the island shared fascinating stories.  
+> The researcher who conducted the study uncovered surprising results.  
+> The politician who proposed the reform gained widespread support.  
+> The artist who painted this masterpiece combined different styles creatively.  
+> The journalist who exposed the scandal won several awards for bravery.  
+
+The philanthropist who donated millions to education has changed countless lives.  
 
 > [!INFO] Relative Pronun'lar, niteleyecekleri sözcükten hemen sonra gelirler.  
 > Komşum olan Ted, her Pazar çimlerini biçer.  
@@ -51,6 +72,26 @@ Ted, who is my neighbor, is a lawyer.
 > To whom did you apply?  
 > Whom are they firing at?  
 > With whom am I speaking?  
+> She is the woman whom I met at the conference.  
+> The teacher whom the students admire most is retiring this year.  
+> I spoke to the manager whom you recommended for the job.  
+> He is the person whom I trust with all my secrets.  
+> The doctor whom we consulted was highly knowledgeable.  
+> The author, whom many critics regard as a genius, has published another bestseller.  
+> The student whom the professor praised during the lecture looked delighted.  
+> The guests, whom we invited weeks ago, finally arrived.  
+> The artist, whom they commissioned for the mural, has an impressive portfolio.  
+> The candidate whom the company selected for the position has extensive experience.  
+> The lawyer, whom the client hired for the case, is known for her expertise in criminal law.  
+> The director, whom the audience applauded after the screening, delivered an inspiring speech.  
+> The scientist, whom the committee honored with a prestigious award, has made groundbreaking discoveries.  
+> The patient, whom the medical team treated for weeks, finally recovered fully.  
+> The diplomat, whom the president entrusted with the negotiations, successfully brokered a peace deal.  
+> The teacher, whom the students often turn to for guidance, is admired for her wisdom and kindness.  
+> The historian, whom the museum invited to deliver a lecture, captivated the audience with his insights.  
+> The photographer, whom the magazine hired for the special feature, captured stunning images of wildlife.  
+> The activist, whom the community supported wholeheartedly, led a movement for social change.  
+> The philanthropist, whom the foundation recognized for his extraordinary contributions, continues to inspire others with his generosity.  
 
 ### Which  
 Objeler için kullanılır.  
@@ -78,6 +119,28 @@ I need two volunteers that need to be seniors.
 Çatı arasında saklı olan eski bir sandık buldum.  
 I have found an old chest that was hidden in the attic.  
 
+> [!EXAMPLE]  
+> This is the car that I bought last week.  
+> He is the boy that helped me with my homework.  
+> The book that you lent me is very interesting.  
+> She wore the dress that she bought in Paris.  
+> The dog that barked all night belongs to our neighbor.  
+> The house that we visited yesterday has a beautiful garden.  
+> The movie that we watched last night was thrilling.  
+> The cake that she baked for the party was delicious.  
+> The man that fixed my computer did an excellent job.  
+> The company that I work for is expanding rapidly.  
+> The team that won the championship trained hard for months.  
+> The song that she sang at the concert moved everyone to tears.  
+> The research that they conducted provided groundbreaking results.  
+> The novel that he is reading is a historical drama.  
+> The project that they completed ahead of schedule impressed the client.  
+> The machine that was invented by the engineer revolutionized the industry.  
+> The organization that he founded supports underprivileged children worldwide.  
+> The idea that they proposed during the meeting sparked an engaging discussion.  
+> The documentary that we watched last night highlighted critical environmental issues.  
+> The building that was destroyed in the fire is now being reconstructed with modern technology.  
+
 ### Where  
 Yerler için kullanılır.  
 
@@ -89,6 +152,28 @@ I do not want to leave in England where it rains constantly.
 
 Burası, kazanın olduğu kavşak.  
 This is the junction where the accident took place.  
+
+> [!EXAMPLE]  
+> This is the house where I live.  
+> The park where we play is beautiful.  
+> She visited the city where her grandparents were born.  
+> That’s the school where I learned to read.  
+> Do you know the restaurant where they serve the best pizza?  
+> The library where he studies every day is very quiet.  
+> They went to the beach where they spent their summer holiday last year.  
+> The shop where I bought my coat is having a sale.  
+> The hotel where we stayed had an amazing view of the sea.  
+> The mountain where they went hiking is covered in snow now.  
+> The garden where the wedding took place was decorated with lights and flowers.  
+> The neighborhood where she grew up has changed a lot over the years.  
+> The forest where we camped last weekend is known for its rare wildlife.  
+> That’s the museum where the artist’s most famous painting is displayed.  
+> He showed me the place where he had his first job as a teenager.  
+> The university where she studied for her master’s degree is highly prestigious.  
+> The cafe where we had lunch yesterday is famous for its homemade desserts.  
+> The town where the festival is held every year attracts visitors from all over the country.  
+> The island where they spent their honeymoon is a popular tourist destination.  
+> The small village where the film was shot has become a major tourist attraction because of its breathtaking scenery and unique architecture.  
 
 > [!WARNING]  Eğer nerede sorusuna cevap veriyorsak, "where" kullanırız ama "hangi" sorusuna cevap veriyorsak, "which" kullanırız.  
 > Bu, Shakespeare'in hayatıyla ilgili bilgi edinebileceğin bir makale.  
@@ -120,6 +205,28 @@ Zamanlar için kullanılır.
 İnsanların, birbirine saygı duyduğu zamanlar vardı.  
 There were times when people used to respect each other.  
 
+> [!EXAMPLE]  
+> This is the moment when I felt truly happy.  
+> I remember the day when we first met.  
+> There was a time when everything seemed perfect.  
+> Do you remember the year when you graduated?  
+> The summer when they traveled across Europe was unforgettable.  
+> The evening when the power went out unexpectedly was quite eventful.  
+> She will never forget the moment when he proposed to her under the stars.  
+> The day when we moved into our new house brought both excitement and challenges.  
+> There was a period when I struggled to find a job that matched my qualifications.  
+> He recalls the night when he witnessed a meteor shower that lit up the entire sky.  
+> The week when we visited Paris was filled with unforgettable adventures and cultural discoveries.  
+> The month when the cherry blossoms bloom transforms the city into a breathtaking spectacle.  
+> The century when the Renaissance began was characterized by profound intellectual and artistic growth.  
+> The exact time when the earthquake struck is meticulously documented in history books.  
+> The decade when technology advanced rapidly marked the onset of the digital revolution that reshaped modern society.  
+> That was the pivotal moment when everything we thought we knew was called into question, leading to a complete reevaluation of our plans.  
+> The season when the leaves fall in vibrant shades of red, orange, and gold symbolizes the beauty of transition and change.  
+> The year when the company was founded, amid economic turmoil, became the cornerstone for its legacy of innovation and resilience.  
+> The day when we celebrated her milestone birthday, surrounded by friends, family, and heartfelt speeches, remains a cherished memory etched in time.  
+> The winter when the unprecedented snowstorm paralyzed the city for weeks, leaving us to rely on our resourcefulness, taught us invaluable lessons about endurance and community spirit.  
+
 > [!INFO]  Eğer bir zaman, nesne ya da benzeri bir şekilde kullanılırsa, "which" ya da "that" kullanılır.  
 > Pazartesi, haftanın günlerinden çıkartılması gereken bir gündür.  
 > Monday is a day which should be removed from the days of the week.  
@@ -146,6 +253,26 @@ Dişleri jilet kadar keskin bir balık tarafından ısırıldı.
 He was bitten by a fish whose teeth were sharp as a razor.  
 
 > [!EXAMPLE]  
+> This is the boy whose dog ran away.  
+> I met a woman whose smile was unforgettable.  
+> The book whose cover is torn belongs to the library.  
+> She has a friend whose mother is a famous artist.  
+> We visited the house whose garden is full of beautiful roses.  
+> I admire the teacher whose lessons are both inspiring and challenging.  
+> The company whose products are renowned worldwide is headquartered here.  
+> They adopted a cat whose previous owner could no longer care for it.  
+> The scientist whose discovery revolutionized medicine was awarded a prestigious prize.  
+> He is the man whose dedication to his work has earned him universal respect.  
+> The family whose car broke down on the highway received help from a kind stranger.  
+> The author whose latest novel became a bestseller is hosting a book signing event.  
+> We attended a lecture by a professor whose groundbreaking research changed the field of physics.  
+> She spoke about a friend whose courage in the face of adversity inspired everyone around her.  
+> The castle, whose walls date back to the medieval era, stands as a testament to history.  
+> The artist, whose work blends surrealism with realism, has captivated audiences worldwide.  
+> The musician, whose compositions resonate with profound emotion, performed in front of a sold-out audience.  
+> The organization, whose mission is to combat climate change, has initiated numerous global campaigns.  
+> The family, whose ancestral home was destroyed in the war, rebuilt their lives with remarkable resilience.  
+> The philanthropist, whose generous donations have funded countless educational programs, continues to support transformative projects around the globe.  
 > Maldives where tourisim industry provides the people with income is very popular for honeymoons.  
 > The place where they burried the puppy has turned green now. It is covered in grass.  
 > The village where only twenty peasants live will be turned into a tourism centre.  
@@ -160,10 +287,34 @@ The reason why I withdrew some money from the ATM was, I had no cash.
 Onun neden bu kadar üzgün olduğunu biliyor musun?  
 Do you know the reason why she is so sad?  
 
-Bugünlerde havanın bu kadar soğuk olmasının sebebi, yaklaşan kar yağışları- May and Might  
+Bugünlerde havanın bu kadar soğuk olmasının sebebi, yaklaşan kar yağışları.  
 The reason why the weather is so cold nowadays is the upcoming snowfall.  
 
+> [!EXAMPLE]  
+> This is the reason why I decided to leave early.  
+> I don’t understand why she was upset.  
+> Can you explain why the project was delayed?  
+> He asked why they didn’t join the meeting.  
+> The teacher explained why the test results were important.  
+> The story revealed why the character chose to disappear.  
+> Nobody knows why the ancient civilization suddenly vanished.  
+> She questioned why the company refused to disclose the information.  
+> The scientist explained why certain species are more adaptable to climate change.  
+> The author described why the protagonist struggled with their identity throughout the novel.  
+> They couldn’t comprehend why the community rejected such a beneficial proposal.  
+> The committee investigated why the budget was exceeded by such a large margin.  
+> The documentary explored why some traditions have persisted for centuries despite societal changes.  
+> The report clarified why the new policy failed to achieve its intended goals.  
+> He elaborated on why the economic crisis had such a widespread impact across multiple industries.  
+> The historian discussed why the war had such a profound influence on the political landscape of the time.  
+> She wrote an essay explaining why technological advancements often come with ethical dilemmas.  
+> The philosopher questioned why human beings seek meaning in the face of uncertainty.  
+> The research paper examined why urbanization contributes significantly to environmental degradation over time.  
+> The debate centered around why some nations prioritize economic growth over sustainable development, highlighting complex global challenges.  
+
 ## Defining and Non-Defining Relative Clauses  
+![Test English Defining and Non-Defining Relative Clauses](https://test-english.com/staging11/wp-content/uploads/Defining_non-defining-relative-clauses-new.png)  
+
 Basitçe, eğer virgül kullanmamız gerekiyorsa, Non-Defining Relative Clause diyebiliriz. Eğer virgül kullanmıyorsak, Defining Relative Clause olur.  
 
 Türkiye'nin başkomutanı, Mustafa Kemal Atatürk, 1881 yılında doğmuştur.  

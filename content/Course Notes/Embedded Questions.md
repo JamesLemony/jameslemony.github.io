@@ -1,3 +1,5 @@
+![Test English Embedded Questions](https://test-english.com/staging11/wp-content/uploads/Indirect-questions-grammar-chart-1.webp)  
+
 Gömülü sorular anlamına geliyor. Gömülü sorular, bir cümlenin ya da bir sorunun içinde başka bir soru olmasıdır. Kafa karıştırıcı gelebilir fakat aslında oldukça basit bir konsept. Embedded questions, genellikle, kibarlık için kullanılan bir sorudan sonra, asıl sorumuzun **pozitif cümle şeklinde yazılması** ile oluşur.  
 
 Kibarlık için kullandığımız bazı cümle kalıpları şunlardır:  
