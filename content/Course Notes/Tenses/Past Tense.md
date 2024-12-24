@@ -1,3 +1,5 @@
+![Test English Past Tense](https://test-english.com/staging11/wp-content/uploads/past-simple_form_A2-new.jpg)  
+
 Türkçesi -di’li geçmiş zaman olan tensimiz. Kullanımı oldukça kolay aslında. Simple Past Tense’de biz, fillerin ikinci halini kullanıyoruz ve bunları bilmemiz gerekiyor.  
 
 **Olumlu cümle yapısı:**  

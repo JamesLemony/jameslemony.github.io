@@ -1,3 +1,7 @@
+![Test English Present Perfect Tense Meaning](https://test-english.com/staging11/wp-content/uploads/Present-perfect-use_new.png)  
+
+![Test English Present Perfect Tense Form](https://test-english.com/staging11/wp-content/uploads/Present-perfect-form_new.png)  
+
 Present Perfect Tense, geçmişte gerçekleşmiş fakat etkisini hala gösteren eylemlerden bahsederken kullanılır. Bu tenle yapılmış eylemler, geçmişte gerçekleşmiş, olup bitmiş şu anla bir şekilde alakalı olan eylemlerdir.  
 
 Daha da açıklamak gerekirse, "I have lost my wallet." cümlesi, "Cüzdanımı kaybettim, hala bulamadım/arıyorum." şeklinde çevrilebilir. Burada dikkat etilmesi gereken şey, cüzdanın hala bulunamamış olduğudur. Eğer cüzdan bulunmuş olsa cümle "I lost my wallet." şeklinde kurulur. Aralarındaki fark da şudur: Present Perfect ile kurulan cümle, bir şekilde şu anda ilişkilidir ama Past Tense ile kurulan cümle ise bitmiştir.  
@@ -55,6 +59,8 @@ He hasn’t travelled overseas before.
 > They have attended many music festivals.  
 > He has climbed the tallest mountain in the region.  
 > We have experienced some incredible adventures together.  
+
+![Test English Present Perfect vs Past Simple](https://test-english.com/staging11/wp-content/uploads/Past-simple-vs-Present-perfect_Grammar-chart.webp)  
 
 > [!EXAMPLE]  
 > I have asked my parents to loan me some money.  

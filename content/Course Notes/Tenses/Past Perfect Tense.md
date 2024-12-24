@@ -1,3 +1,5 @@
+![Test English Past Perfect](https://test-english.com/staging11/wp-content/uploads/past-perfect-form-use.png)  
+
 Past Perfect Tense, Türkçede var olmayan fakat anlaması oldukça basit olan bir zamandır. Geçmişte yaşanmış olan iki olaydan önce yaşanmış olanı için kullanılır. Daha da açıklamak gerekirse: "Kolumu kırdım ve doktora gittim." cümlesinde, kol kırma eylemi, doktora gitme eyleminden daha önce yaşandığı için Past Perfect Tense ile kurulur. Doktora gitme eylemi, daha sonra yaşandığı için Past Tense ile kurulur. Kısa Past Perfect Tense, yaşanan iki eylem arasında, zamansal bir bağ kurar. Bazı durumlarda mişli geçmiş zaman olarak da kullanılabilir. Yapısal olarak da oldukça basittir.  
 
 **Olumlu cümle yapısı:**  

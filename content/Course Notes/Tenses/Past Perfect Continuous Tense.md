@@ -1,3 +1,5 @@
+![Test English Past Perfect and Past Perfect Continous](https://test-english.com/staging11/wp-content/uploads/Review-Past-perfect-simple-continuous-B1-B2-gramar-chart.png)  
+
 Tükçesine "devam eden -mişli geçmiş zaman" diyebileceğimiz tense'imiz.  
 
 **Olumlu cümle yapısı:**  
