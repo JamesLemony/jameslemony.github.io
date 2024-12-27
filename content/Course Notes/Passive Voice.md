@@ -104,6 +104,8 @@ Object + Aux Verbs + Be + V3 (+ Subject)
 > He is treated gently.  
 > Nothing he says is understood.  
 > No books were bought.  
+> The project was completed.  
+> The book was published last year.  
 > Was anybody seen at the house?  
 > It is belived that he is innocent.  
 > He is loved by everybody.  
@@ -115,6 +117,24 @@ Object + Aux Verbs + Be + V3 (+ Subject)
 > The party will be thrown by the embassy.  
 > The Princess' deresses are chosen by her stylist.  
 > They changed the music to cheer me up.  
+> A new policy has been introduced by the government.  
+> The results will be announced tomorrow at noon.  
+> All the tickets had been sold before we arrived at the venue.  
+> The house is believed to be haunted by the previous owner.  
+> A lot of progress has been made in the last decade regarding climate change.  
+> The roads were being repaired when we arrived in the small, remote village.  
+> The stolen painting was recovered by the police after a thorough investigation.  
+> The data was carefully analyzed by the research team to identify patterns.  
+> A new bridge is being built over the river to connect the two major cities.  
+> The issue will be discussed in detail during the next management meeting.  
+> A complaint has been filed against the company for failing to meet environmental standards.  
+> It is said that the movie is based on a true story from the early 20th century.  
+> The room had been cleaned thoroughly before the guests arrived for the evening gala.  
+> The documents were signed and sent to the headquarters for approval earlier this week.  
+> The final decision has not yet been made, but it is expected to be announced soon.  
+> It is thought that the treasure is buried under the castle, hidden centuries ago by knights.  
+> The invitation will be sent to all participants by email to ensure no one is left out of the event.  
+> This theory has been widely accepted by scientists after decades of rigorous research and debate.  
 >  
 > Every year, children kill more people with guns than terrorists do.  
 > Every year, more people are killed by children with guns than by terrorists.  
