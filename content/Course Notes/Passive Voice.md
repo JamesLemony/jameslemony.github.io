@@ -21,7 +21,7 @@ Object + Aux Verbs + Be + V3 (+ Subject)
 |     Tense and Others     | Active From                         | Passive Form                      |  
 |:------------------------:|:----------------------------------- |:--------------------------------- |  
 |   Present Simple Tense   | They take the photos.               | The photos are taken.             |  
-| Present Continuous Tense | They are taking the photos.         | They photos are being taken.      |  
+| Present Continuous Tense | They are taking the photos.         | The photos are being taken.       |  
 |  Present Perfect Tense   | They have taken the photos.         | The photos have been taken.       |  
 |    Past Simple Tense     | They took the photos.               | The photos were taken.            |  
 |  Past Continuous Tense   | They were taking the photos.        | The photos were being taken.      |  
