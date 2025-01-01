@@ -17,7 +17,7 @@ Passive Voice, Türkçedeki edilgen yapıya denk geliyor. Birilerinin eylemleri 
 **Passive Yapısı:**  
 Object + Aux Verbs + Be + V3 (+ Subject)  
 
-###### Passive Tense Değişim Tablosu  
+###### Passive Voice Değişim Tablosu  
 |     Tense and Others     | Active From                         | Passive Form                      |  
 |:------------------------:|:----------------------------------- |:--------------------------------- |  
 |   Present Simple Tense   | They take the photos.               | The photos are taken.             |  
