@@ -1,3 +1,5 @@
+![Test English Do vs Make](https://test-english.com/staging11/wp-content/uploads/Do-vs-Make_Difference.png)  
+
 "Do" ve "Make", Türkçede ikisi de "yapmak" olarak çevrilir, ancak İngilizce'de farklı durumlarda kullanılır. Aşağıda her iki fiilin kullanım farkları ve bol örneklerle açıklamaları yer almaktadır.  
 
 ## Kullanım Farkları  

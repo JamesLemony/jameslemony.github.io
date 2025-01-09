@@ -1,3 +1,5 @@
+![Test English Future Continuous Tense](https://test-english.com/staging11/wp-content/uploads/future-continuous.new_.png)  
+
 Future Continuous Tense, Gelecekte Devam Eden zaman olarak Türkçeye çevrilebilir. "yapıyor olacağım, ediyor olacağım" diye çevirebiliriz. Future Simple'ın aksine, Continuous, gelecekte olacak olan olayları anlatırken kullanılır.  
 
 **Olumlu cümle yapısı:**  

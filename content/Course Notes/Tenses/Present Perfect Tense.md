@@ -99,4 +99,5 @@ He hasn’t travelled overseas before.
 > Some monkey species have evolved into men for centuries according to some scientists.  
 > So far, Mel has just scored one goal.  
 > They have not evaluated the sales lately. They should do that.  
->  
+
+![Test Enligsh Present Perfect and Continuous Tense Review](https://test-english.com/staging11/wp-content/uploads/Review-Present-perfect-simple-and-continuous-B1-gramar-chart.png)  

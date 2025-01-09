@@ -1,3 +1,4 @@
+![Test English Comparatives and Superlatives](https://test-english.com/staging11/wp-content/uploads/Comparative-superlative-adjectives_A2-new.png)  
 ## Comparatives  
 Comperatives, ya da üstünlük sıfatları, sıfatların sonuna "-er" eklenerek ya da öncesinde "more" kullanırak yapılır. Comparative yaptıktan sonra, genelde, karşılaştırma yaptığımız şeyi de söyleriz.  
 

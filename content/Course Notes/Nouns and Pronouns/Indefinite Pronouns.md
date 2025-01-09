@@ -1,3 +1,5 @@
+![Test English Indefinite Pronouns Table](https://test-english.com/staging11/wp-content/uploads/something-anything-nothing.png)  
+
 Indefinite Pronouns, kelime anlamı ile "Belirsiz (Belgisiz) Zamirler" anlamına gelir. Kısaca, tam olarak ne olduğunu bilmediğimiz isimlerin yerini tutmak için kullanırız.  
 
 Indefinite Pronouns, duruma göre, cümlenin bir çok yerinde kullanılabilirler.  

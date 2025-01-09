@@ -1,3 +1,5 @@
+![Test English Future in the Past Forms](https://test-english.com/staging11/wp-content/uploads/Future-in-the-past_Verb-forms.jpg)  
+
 ## Be Going To  
 Yapısal olarak "be going to" kullandığımız fakat geçmişte, gelecekte yapacağımız şeyleri ifade eden tensimiz. Geçmiş anlamını vermek için "was/were" kullanırken, gelecek anlamını vermek için "going to" kullanırız.  
 
@@ -71,3 +73,4 @@ Genellikle haber başlıklarında karşımıza çok çıkabilecek kalıp. Gelece
 > He was to come here but he didn't, I do not know where he is.  
 > The victim, Eric Watts, 24, was to arrive home for his wedding on March 22.  
 
+![Test English Future in Past Expressions](https://test-english.com/staging11/wp-content/uploads/Future-in-the-past_Expressions.jpg)  

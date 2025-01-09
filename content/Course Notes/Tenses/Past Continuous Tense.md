@@ -1,3 +1,5 @@
+![Test English Past Continuous Form](https://test-english.com/staging11/wp-content/uploads/Past-continuous-form.png)  
+
 Türkçesi (Sürekli Geçmiş Zaman ya da Devam Eden Geçmiş Zaman) olan tensimiz. Geçmişte devam etmiş ve bitmiş olaylardan bahsederken kullanılır. Olayların geçmişte bir süre devam etmiş olması ve şu anda devam etmiyor olması gerekir. Eğer eylem geçmişte başlamış ve hala devam ediyorsa, Şimdiki Zaman kullanılır.  
 
 **Olumlu cümle yapısı:**  
@@ -64,3 +66,5 @@ Bazı fiiller ([[Stative & Dynamic Verbs]]), genelde, continuous olmaz. Bazılar
 > My husband was always talking about friends from school.  
 > She was always taking all my ideas.  
 > I was forever worrying if I would make the team.  
+
+![Test English Past Simple and Past Continuous Tense](https://test-english.com/staging11/wp-content/uploads/Review-Past-simple-continuous-B1-B2-gramar-chart.png)  

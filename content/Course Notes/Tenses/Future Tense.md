@@ -1,3 +1,5 @@
+![Test English Future Tense Form](https://test-english.com/staging11/wp-content/uploads/will-form.png)  
+
 Cümle yapısı iki farklı şekilde yapılabilir. Cümle will ile yapılırsa, yapılacak olan eylemin gerçekleşeceği tam olarak kesin değildir. Eylemin yapılacağına dair bir kanıt yoktur. Eğer be going to kullanarak yaparsak, o eylemin gerçekleşme ihtimali çok daha yüksektir. Kanıt vardır. Be going to kullanıyorsak, o eylem önceden planlanmış da olabilir. O anda aklımıza gelen bir şey ise will kullanırız.  
 
 **Will ile cümle yapısı:**  

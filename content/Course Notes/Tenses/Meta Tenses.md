@@ -5,10 +5,10 @@ Tense'ler, İngilizcenin çok temelinde yatan şeyler olduğu için ve neredeyse
 Basit anlamına gelir. Tense'lerde kullanıldığında, tense'in continuous olmadığı yani -ing takısı almadığını belirtir. Continuous ile birlikte, ana iki tense ayrımından biridir.  
 
 ###### Continuous  
-Devam eden demektir. Devam eden eylemleri bildirirken kullanılır. Eylemin halen devam ediyor olması gerekmez. Eylem geçmişte de bir süre devam etmiş olabilir. Aynı şekilde gelecekte de bir süre devam edecek olabilir. Simple ile birlikte, ana iki tense ayrımından biridir. Continuous Tense'lerde yardımcı fiil olarak "be" bulunur. Duruma göre  
+Devam eden demektir. Devam eden eylemleri bildirirken kullanılır. Eylemin halen devam ediyor olması gerekmez. Eylem geçmişte de bir süre devam etmiş olabilir. Aynı şekilde gelecekte de bir süre devam edecek olabilir. Simple ile birlikte, ana iki tense ayrımından biridir. Continuous Tense'lerde yardımcı fiil olarak "be" bulunur. Türkçe'de "-yor" eki olarak çevirilir.  
 
 ###### Present  
-Şimdiki zamanlar için kullanılır. Present Tense'lerin kullamında fiil ilk hali ile gelir.  
+Şimdiki zamanlar için kullanılır. Present Tense'lerin kullamında fiilin ilk hali ile gelir.  
 
 ###### Past  
 Geçmiş anlamına gelir ve geçmiş zamanlar için kullanılır. Past olduğu zaman fiil ya da yardımcı fiil ikinci halinde kullanılır. Past Tense'de iki adet "do" fiili kullanılabilir. Bu gibi kullanımlarda ilk "do" yardımcı fiil olarak çekilir ve "did" olarak kullanılır. İkinci "do" ise cümlenin ana fiili olur ve cümlenin formuna göre uygun şekilde çekimlenir.  

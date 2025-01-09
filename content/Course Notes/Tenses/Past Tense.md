@@ -92,3 +92,5 @@ Did + He/She/It + V1
 > Intrigued by the cryptic message, the detective embarked on a thrilling journey to uncover the truth.  
 > Exhausted after conquering the challenging hike, they marveled at the breathtaking panoramic view from the summit.  
 > Having meticulously researched the historical period, the author brought the characters and events to life in her captivating novel.  
+
+![Test English Past Simple and Continuous and Past Perfect Review](https://test-english.com/staging11/wp-content/uploads/Review-Past-simple-continuous-and-perfect-B1-gramar-chart.png)  
