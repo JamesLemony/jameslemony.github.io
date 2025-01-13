@@ -1,3 +1,5 @@
+![Test English Infinitive or Gerund - Verb Patterns](https://test-english.com/staging11/wp-content/uploads/gerunds-infinitives.png)  
+
 # Gerund  
 
 Gerund demek, fiilin -ing alması demektir. Fakat her -ing alan fiil gerund olmaz. Continuous filler de -ing alabilir.  
