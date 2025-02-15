@@ -78,7 +78,6 @@ She went out crying.
 > Not to come across Will has been my number one concern while going to work every morning.  
 > Not to experience things is a big mistake and most of them are lost forever once they are gone.  
 > Not to stay in a five-star hotel was a very good choice because we met lots of lovely people at the hostel.  
->  
 
 Her ikisi de cümlenin nesnesi olarak kullanılabilir.  
 
