@@ -1,7 +1,6 @@
 ![Test English Infinitive or Gerund - Verb Patterns](https://test-english.com/staging11/wp-content/uploads/gerunds-infinitives.png)  
 
 # Gerund  
-
 Gerund demek, fiilin -ing alması demektir. Fakat her -ing alan fiil gerund olmaz. Continuous filler de -ing alabilir.  
 Gerund olmak demek, fiilin isimleşmesidir. Yani, Türkçede, isim-fiil olmaktır.  
 Infinitive ise fiilin başına “to” getirilerek yapılır.  
@@ -71,7 +70,7 @@ She went out crying.
 >  
 > To be a father requires responsibilities.  
 > To speak a foreign language fluently requires a lot of exposure to the authentic language.  
-> To explain a diffucult maths question an be exhausting job if your students have no mathematical intelligence.  
+> To explain a diffucult maths question can be exhausting job if your students have no mathematical intelligence.  
 > To cook includes a sense of taste beacuse you should know how a well-cooked dish will taste to make it good.  
 > To swear is a bad habit that is looked down upon in every society.  
 > To fix a car may be impossible if the car is damaged beyond repair.  
