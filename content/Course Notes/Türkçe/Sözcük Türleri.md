@@ -1,17 +1,17 @@
-# İsim  
-##### İsim Nedir?  
+# İsim
+##### İsim Nedir?
 
-# Fiil  
-##### Fiil Nedir?  
+# Fiil
+##### Fiil Nedir?
 
-# Zamir  
-##### Zamir Nedir?  
-Zamirler, cümle içerinde ismin yerine geçen ve yerini tutan kelimelerdir. Zamirler, cümlenin içerisinde birçok yerde kullanılabilir. Genelde, özne olarak kullanımları oldukça yaygındır.  
+# Zamir
+##### Zamir Nedir?
+Zamirler, cümle içerinde ismin yerine geçen ve yerini tutan kelimelerdir. Zamirler, cümlenin içerisinde birçok yerde kullanılabilir. Genelde, özne olarak kullanımları oldukça yaygındır.
 
-# Sıfat  
-##### Sıfat Nedir?  
-Sıfatlar, isimler ile birlikte kullanılan, isimlerin özelliklerini belirten sözcüklerdir.  
+# Sıfat
+##### Sıfat Nedir?
+Sıfatlar, isimler ile birlikte kullanılan, isimlerin özelliklerini belirten sözcüklerdir.
 
-### Niteleme Sıfatları  
+### Niteleme Sıfatları
 
-### Belirtme Sıfatları  
+### Belirtme Sıfatları
