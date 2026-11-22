@@ -108,7 +108,7 @@ plugins:
   - source: "@quartz-themes/core"
     enabled: true
     options:
-      theme: default
+      theme: github-flavored-markdown
       mode: both
   - source: "@quartz-community/explicit-publish"
     enabled: false
